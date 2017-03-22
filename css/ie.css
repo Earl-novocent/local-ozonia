@@ -1,0 +1,19 @@
+/*.inner-page .wrapper .header {
+background-position-y: 250px;
+}
+
+.inner-page .nav-bar{
+margin-bottom: 35px;
+}*/
+
+.contact-right form input[type="text"]{
+padding-top:5px;
+}
+
+.nav li a:hover, .nav li a.active{
+	border-top: 1px solid #00D0FD;
+}
+
+ul.literature li div.intruct {
+	background: #ccc url(../images/1324645816_Download.png) no-repeat center bottom;
+}

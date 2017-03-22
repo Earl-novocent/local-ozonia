@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sections xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<section>
+		<translations>
+			<translation>
+				<english>As a world leader in ozone disinfection treatment, Ozonia designs and manufactures ozone generators incorporating the most sophisticated electronics technology available. Offering wide-range of ozone generators from the laboratory scale to the largest ozone systems in the world. All Ozonia ozone systems have a variety of technical features developed to simplify installation and allow minimal operator attention and maintenance.</english>
+				<chinese>作为全球领先的臭氧消毒技术提供商和设备制造厂商，奥宗尼亚(Ozonia)公司自行研发、设计和制造的系列臭氧发生器采用了最尖端的电子技术。所提供的臭氧发生器应用范围广泛， 涉及世界各地的实验室规模以及最大规模臭氧系统的提供业务。 奥宗尼亚(Ozonia)公司每一臭氧系统均拥有独特的技术特征，采用相应的专利技术以简化安装和最小化维护工作量。</chinese>
+			</translation>
+			<translation>
+				<english>Ozone has been used by municipal bodies for many years to improve the aesthetic qualities of water and for its germicidal action. It is an accepted fact that drinking water is disinfected when a residual ozone level of 0.4 mg/l has been maintained for a period of 4 minutes. Ozone has many additional benefits in the drinking water process:</english>
+				<chinese>众所周知，将浓度为0.4mg/l的臭氧在饮用水中保持4分钟即可达到消毒之目的。除此之外，臭氧用于饮用水处理工艺中还可带来其他收获。</chinese>
+			</translation>
+			<translation>
+				<english>In preozonation, ozone improves clarification, limits the formation of haloform precursors, reduces iron and manganese and promotes the destruction of micro-organisms such as algae.</english>
+				<chinese>预臭氧处理可增强澄清效果，避免有机物转化为卤仿，同时还可促进藻类等微生物的死亡。</chinese>
+			</translation>
+			<translation>
+				<english>Main ozonation treatment breaks down trace contaminants and enhances the biodegradability of organic substances which are then removed in a biological treatment step.</english>
+				<chinese>臭氧化处理对于消除微污染物特别有效，可提高较难去除有机物的生物可降解性。</chinese>
+			</translation>
+			<translation>
+				<english>Finally, combined treatment steps involving ozone and activated carbon or ozone and peroxide are currently the most powerful means available to water process engineers for the removal of contaminants and constitute a vital safeguard against contamination entering a drinking water system.</english>
+				<chinese>最后，臭氧和活性炭或与过氧化氢组合工艺是目前去除水污染物的最有效方式，是应对突发性污染事故的重要手段。</chinese>
+			</translation>
+			<translation>
+				<english>Ozone Products</english>
+				<chinese>臭氧产品</chinese>
+			</translation>
+		</translations>
+	</section>
+	<section id="cfs">
+		<translations>
+			<translation id="cfs_2">
+				<english>OZAT® CFS Series</english>
+				<chinese>OZAT® CFS系列</chinese>
+			</translation>
+			<translation id="cfs_3">
+				<english>The OZAT® CFS range is Ozonia's answer for small to medium sized ozone applications. The design is based on feedback from hundreds of operators and includes the latest technology to ensure continuous operation at full load in industrial environments.</english>
+				<chinese>CFS 系列代表奥宗尼亚臭氧发生装置的二代研发产品，专为中小型臭氧处理应用而设计，并在大量用户反馈信息的基础上不断完善，利用最新技术确保满负荷工业运行的连续性。</chinese>
+			</translation>
+			<translation id="cfs_4">
+				<english>An OZAT® CFS range integrates the ozone generator, the power supply, control system, process related control equipment and interconnections inside a single compact cabinet. The control system ensures flexible operation and allows integration into all types of plant concepts.</english>
+				<chinese>OZAT® CFS 处理装置包括臭氧发生器单元、高压中频电源、控制系统、工艺控制设备和内部接线等。控制系统保证设备运行的灵活性且便于融入到各类工厂的整体设计中。</chinese>
+			</translation>
+			<translation id="cfs_5">
+				<english>Production rates from 55 to 730 gO3/h from oxygen</english>
+				<chinese>臭氧产量55 ~ 730gO3/h ( 采用氧气作为原料气)</chinese>
+			</translation>
+			<translation id="cfs_6">
+				<english>Production rates from 37 to 470 gO3/h from air</english>
+				<chinese>臭氧产量37 ~ 470 gO3/h ( 采用空气作为原料气）</chinese>
+			</translation>
+			<translation id="cfs_7">
+				<english>Robust industrial quality for reliability and long service life</english>
+				<chinese>可靠性好、使用寿命长</chinese>
+			</translation>
+			<translation id="cfs_8">
+				<english>High ozone concentration at full-load</english>
+				<chinese>满负荷工作时臭氧浓度高</chinese>
+			</translation>
+			<translation id="cfs_9">
+				<english>Very compact dimensions for easy integration</english>
+				<chinese>结构紧凑、易于安装集成</chinese>
+			</translation>
+			<translation id="cfs_10">
+				<english>Low maintenance and service personnel requirement Second generation technology</english>
+				<chinese>维护工作量小</chinese>
+			</translation>
+		</translations>
+	</section>
+	<section id="cfv">
+		<translations>
+			<translation id="cfv_3">
+				<english>The OZAT® CFV range is Ozonia's latest development of generators for medium-sized ozone applications. The design is based on feedback from hundreds of operators and includes the latest technology to ensure continuous operation at full-load in industrial environments. A feature of the larger units is the fused dielectric tubes which makes them particularly suitable for remote service in drinking water plants.</english>
+				<chinese>CFV 系列产品是奥宗尼亚开发的最新一代臭氧发生器， 适合中等规模的臭氧应用处理。其设计在大量用户反馈意见的基础上不断完善，并利用最新技术确保满负荷工业运行的连续性。这类较大型处理装置的一个显著特点是采用了带保险的放电管，特别适于饮用水厂的远程控制和操作。</chinese>
+			</translation>
+			<translation id="cfv_4">
+				<english>An OZAT® CFV unit is completely integrated with ozone generator, power supply, PLC control, process related control equipment and interconnections all built on a common skid. The PLC system and optional bus ensures flexible operation and allows integration into all types of plant concepts.</english>
+				<chinese>OZAT® CFV 系列产品为一体化的臭氧发生器，配备高压中频供电单元、PLC 控制单元、工艺控制设备和内部连接等。PLC 控制系统和可选总线确保运行的灵活性且便于融入到各类工厂的整体设计中。</chinese>
+			</translation>
+			<translation id="cfv_5">
+				<english>Production rates from 1.24 to 25.7 kgO3/h from oxygen</english>
+				<chinese>原料气为氧气，臭氧产量从1.24到25.7 kgO3/h</chinese>
+			</translation>
+			<translation id="cfv_6">
+				<english>High ozone concentration at full-load</english>
+				<chinese>满负荷工作时臭氧浓度高</chinese>
+			</translation>
+			<translation id="cfv_7">
+				<english>Robust industrial quality for reliability and long service life</english>
+				<chinese>可靠性好、使用寿命长</chinese>
+			</translation>
+			<translation id="cfv_8">
+				<english>Skid mounted with a small footprint for easy integration</english>
+				<chinese>安装简便、占地面积小</chinese>
+			</translation>
+			<translation id="cfv_9">
+				<english>Minimum maintenance and service personnel requirement</english>
+				<chinese>维护工作量小</chinese>
+			</translation>
+			<translation id="cfv_10">
+				<english>Choice of PLC with user friendly interface and optional bus</english>
+				<chinese>PLC 采用用户友好界面、总线可选</chinese>
+			</translation>
+			<translation id="cfv_11">
+				<english>Water cooled horizontal vessel type ozone generator</english>
+				<chinese>水冷型管式臭氧发生器、水平安装</chinese>
+			</translation>
+			<translation id="cfv_12">
+				<english>The OZAT® CFV Series is available on oxygen or air feed gas</english>
+				<chinese>有空气源和氧气源两种机型</chinese>
+			</translation>
+			<translation id="cfv_2">
+				<english>OZAT® CFV Series</english>
+				<chinese>OZAT® CFV系列</chinese>
+			</translation>
+		</translations>
+	</section>
+	<section id="xf">
+		<translations>
+			<translation id="xf_2">
+				<english>XF™ Vessels</english>
+				<chinese>XF™系列</chinese>
+			</translation>
+			<translation id="xf_3">
+				<english>The XF™ range of ozone generators is Ozonia's latest development that will set new standards for ozone production world-wide.</english>
+				<chinese>XF™系列产品是奥宗尼亚研发的最新一代臭氧发生器。该产品的面世将全球臭氧生产技术提升至新的水平和高度</chinese>
+			</translation>
+			<translation id="xf_4">
+				<english>Not only has the Ozonia research team established a new calculation basis for the vessel design they have also developed a completely new dielectric technology that will compliment the phenomenally successful “AT (Advanced Technology)™” in the larger units.</english>
+				<chinese>奥宗尼亚的研发小组不仅为臭氧发生器的设计建立新的计算基础，还开发出全新的放电管技术以代替闻名遐迩的“AT™ (advanced Technology)”应用到大型的臭氧生产装置中。</chinese>
+			</translation>
+			<translation id="xf_5">
+				<english>The new patented technology, trademarked “IGS™ (Intelligent Gap System)”, takes ozone generation to levels never thought possible. This technological breakthrough, in conjunction with Ozonia's new MODIPAC™ power supply unit, improves operating efficiency to reduce costs to the lowest possible levels.
+				</english>
+				<chinese>新的专利技术“IGS ™ (Intelligent Gap System)”将臭氧生产技术提高至前所未有的新高度。这项技术突破结合奥宗尼亚开发的新型MODIPAC ™供电单元解除人们在成本控制方面的顾虑</chinese>
+			</translation>
+			<translation id="xf_6">
+				<english>Concentrations from 6 wt% to 14 wt%</english>
+				<chinese>臭氧浓度6 ～ 14 wt%。</chinese>
+			</translation>
+			<translation id="xf_7">
+				<english>Ozone production capacities from 24 kg/h up to 100 kg/h at 10 wt% concentration from oxygen feed gas with a single generator unit.</english>
+				<chinese>氧气源产量从24 kg/h高至 100 kg/h，臭氧浓度10wt%。</chinese>
+			</translation>
+			<translation id="xf_8">
+				<english>Available in component form for easy installation, or as part of a fully assembled and tested containerized plant</english>
+				<chinese>设备可按部件供货便于在用户车间进行现场安装，也可整机组装测试后，以集装箱方式供货</chinese>
+			</translation>
+		</translations>
+	</section>
+	<section id="igs">
+		<translations>
+			<translation id="igs_2">
+				<english>IGS™ Technology</english>
+				<chinese>IGS™ Technology</chinese>
+			</translation>
+			<translation id="igs_3">
+				<english>IGS™ (Intelligent Gap System) : the most innovative, cost-efficient and environmentally friendly innovation to ozone generation systems in a decade.</english>
+				<chinese>IGS™ (Intelligent Gap System 智能间隙系统)专利技术：十年来最具创新性，成本效益和环保革新性的臭氧生成系统</chinese>
+			</translation>
+			<translation id="igs_4">
+				<english>Ozonia's new IGS™ Technology is a patented ozone generation process that uses revolutionary technology and materials to take ozone generation to levels never before commercially available. The revolutionary IGS™ Technology actually tailors the plasma (corona discharge) to optimize ozone generation and minimize non-productive energy.</english>
+				<chinese>奥宗尼亚(Ozonia)公司新型 IGS™ (Intelligent Gap System 智能间隙系统)技术是专利臭氧生成工艺，采用革新性的技术和材料，将臭氧生产技术提高至前所未有的新高度。创新型 IGS™ (Intelligent Gap System 智能间隙系统)技术按实际需要处理等离子（电晕放电），优化臭氧产生，显著降低能耗。</chinese>
+			</translation>
+			<translation id="igs_5">
+				<english>Dramatic improvement of energy efficiency from Ozonia' IGS™ Technology reduces ozonation cost of ownership. The economic impact makes ozone an effective solution to address the ever more demanding situation.</english>
+				<chinese>奥宗尼亚(Ozonia)公司新型 IGS™ (Intelligent Gap System 智能间隙系统)技术显著降低电耗，降低臭氧制备成本。其良好的经济效益使臭氧的应用面日益扩大。</chinese>
+			</translation>
+			<translation id="igs_6">
+				<english>Stable production of high ozone concentration (14wt.%) on a continuous basis</english>
+				<chinese>稳定连续生产高浓度臭氧（14wt.％）</chinese>
+			</translation>
+			<translation id="igs_7">
+				<english>Reduces the energy consumption up to 30% compared to conventional ozone generators</english>
+				<chinese>与传统的臭氧发生器相比，降低能耗达30％</chinese>
+			</translation>
+			<translation id="igs_8">
+				<english>Reduces the feed gas consumption and consequently the operating costs</english>
+				<chinese>降低进气损耗，节约运营成本</chinese>
+			</translation>
+			<translation id="igs_9">
+				<english>Reduces equipment costs and footprints as a result of the high ozone concentration</english>
+				<chinese>高臭氧浓度，有助于降低了设备成本和运行费用</chinese>
+			</translation>
+			<translation id="igs_10">
+				<english>Improves safety and reliability with the exclusive system of individual fuses for each tube</english>
+				<chinese>每一放电管单元均配备专用保险，保证单一放电管出现故障不会影响整个臭氧生产系统的停机，提高臭氧生成系统的安全性和可靠性</chinese>
+			</translation>
+		</translations>
+	</section>
+	<section id="modipac">
+		<translations>
+			<translation id="modipac_2">
+				<english>MODIPAC™</english>
+				<chinese>MODIPAC™</chinese>
+			</translation>
+			<translation id="modipac_3">
+				<english>The MODIPAC™ product is the latest development of power supply units for Ozonia ozone generators. The main feature of the new PSU is an innovative frequency converter based on state of the art Insulated Gate Bipolar Transistor (IGBT) semiconductor technology.</english>
+				<chinese>MODIPAC™系列为最新推出的、奥宗尼亚臭氧发生器的供电单元模块。新型PSU的主要优势体现在采用技术独创性的变频器和先进的IGBT半导体技术。</chinese>
+			</translation>
+			<translation id="modipac_4">
+				<english>The development of the “insulated gate bipolar transistors” was a major step forward in semiconductor power technology, clearly destined to replace existing technologies such as thyristors and associated designs for certain applications. In order to keep abreast with technological development, Ozonia embarked on a development program which has resulted in the top-of-the-line MODIPAC™ modular power supply systems.</english>
+				<chinese>IGBT（insulated gate bipolar transistors）技术开发是半导体工业的一次飞跃，在某些特定应用中取代先前所用的晶闸管和其他相关设计产品成为必然。奥宗尼亚一直站在最新科技发展前沿，自主研发MODIPAC™模块化供电系统。</chinese>
+			</translation>
+			<translation id="modipac_5">
+				<english>These new power stages can be grouped together in 250 kW steps which will provide the necessary power for the ozone generator in question at a frequency of 1450 Hz.</english>
+				<chinese>该系列产品可按250kW 成组连接在一起，为频率1450 Hz 的臭氧发生器提供所需电源。</chinese>
+			</translation>
+			<translation id="modipac_6">
+				<english>State of the art semiconductor technology. High power factor of 0.98 at the mains means no additional power factor correction equipment is needed</english>
+				<chinese>最先进的半导体技术，系统供电的功率系数高达0.99 意味着无需提供</chinese>
+			</translation>
+			<translation id="modipac_7">
+				<english>Because of the unique frequency switching at the mains, a low harmonic content is achieved which fulfills the US standard IEEE 519.</english>
+				<chinese>量低，完全符合美国IEEE 519 标准要求。</chinese>
+			</translation>
+			<translation id="modipac_8">
+				<english>This technology improvement makes the expensive 12 pulse power supply units obsolete</english>
+				<chinese>此项技术革新淘汰了不经济的12脉冲电源装置</chinese>
+			</translation>
+			<translation id="modipac_9">
+				<english>The high voltage transformer is always inside of the PSU cubicle</english>
+				<chinese>HV 变压器置于PSU 柜内部。</chinese>
+			</translation>
+			<translation id="modipac_10">
+				<english>The output frequency is matched to the new Ozonia ozone generator technology</english>
+				<chinese>输出频率和奥宗尼亚的臭氧发生器在技术上相匹配。</chinese>
+			</translation>
+		</translations>
+	</section>
+	<section id="lab2b">
+		<translations>
+			<translation id="lab2b_2">
+				<english>Lab2B Ozone Generator</english>
+				<chinese>Lab2B臭氧发生器</chinese>
+			</translation>
+			<translation id="lab2b_3">
+				<english>The LAB2B is a corona discharge type ozone generator with variable ozone output. Producing up to 4g/h using air and 10g/h using oxygen. The LAB2B is designed specifically for laboratory research.</english>
+				<chinese>LAB2B系列产品为电晕放电式臭氧发生器，可变臭氧输出，臭氧产量可达4gO3/h(原料气为空气)或10gO3/h(原料气为氧气)。LAB2B系列专为实验室研究应用而设计。</chinese>
+			</translation>
+			<translation id="lab2b_4">
+				<english>Operating on various feed gases such as dried air or oxygen the LAB2B is capable of producing concentrations up to 10% volume. Output variation is manually adjustable using a control knob mounted on the front panel.</english>
+				<chinese>输出变化通过安装在前部面板上的控制旋钮手动调节实现。不论采用干燥空气还是氧气作为原料气，LAB2B 系列臭氧发生器的臭氧浓度均达到10%</chinese>
+			</translation>
+			<translation id="lab2b_5">
+				<english>Variable ozone output up to 10g/h</english>
+				<chinese>可变臭氧输出，产量高达10gO3/h</chinese>
+			</translation>
+			<translation id="lab2b_6">
+				<english>Operate under vacuum or at maximum pressure of 10psig</english>
+				<chinese>真空或最大压力10psig 条件下工作</chinese>
+			</translation>
+			<translation id="lab2b_7">
+				<english>Illuminating switches indicating ozone production and faults</english>
+				<chinese>指示开关显示臭氧生产或故障状态</chinese>
+			</translation>
+			<translation id="lab2b_8">
+				<english>Air cooled</english>
+				<chinese>空气冷却型</chinese>
+			</translation>
+			<translation id="lab2b_9">
+				<english>Operating and maintenance manual included performance graphs</english>
+				<chinese>操作或维护手册包含功能图标</chinese>
+			</translation>
+			<translation id="lab2b_10">
+				<english>Full twelve month warranty and technical backup facilities</english>
+				<chinese>12 个月质保期和技术支持</chinese>
+			</translation>
+		</translations>
+	</section>
+	<section id="membrel">
+		<translations>
+			<translation id="membrel_2">
+				<english>MEMBREL® MkIII</english>
+				<chinese>MEMBREL® MkIII</chinese>
+			</translation>
+			<translation id="membrel_3">
+				<english>The most effective way to disinfect Ultra Pure Water loops in industrial and pharmaceutical applications.</english>
+				<chinese>用于工业和制药行业超纯水回路的最有效消毒方式</chinese>
+			</translation>
+			<translation id="membrel_4">
+				<english>Originally developed in the early 1980's MEMBREL® MKIII is Ozonia's latest generation of electrolytic ozone generators which uses solid polymer electrolyte and state-of-the-art electronics for ozone production.</english>
+				<chinese>MEMBREL® MKIII是奥宗尼亚公司电解式臭氧发生器的最新一代产品，采用固体聚合物电介质和最先进的电子技术制造臭氧。</chinese>
+			</translation>
+			<translation id="membrel_5">
+				<english>Installation of a MEMBREL® MKIII is an effective way of sanitizing a pure water loop. Because the ozone is produced from the water being treated there are no contaminants. The use of chemicals or additional treatment steps is not necessary.</english>
+				<chinese>MEMBREL® MKIII 装置是超纯水消毒的有效手段。因为臭氧利用待处理水制备，整个过程无污染生成，无需使用化学制品或其他额外的处理手段。</chinese>
+			</translation>
+			<translation id="membrel_6">
+				<english>Electrolytic ozone production</english>
+				<chinese>电解式臭氧制备</chinese>
+			</translation>
+			<translation id="membrel_7">
+				<english>Easily upgradeable from 3 gO3 /h to 9 gO3 /h</english>
+				<chinese>容易升级：3 gO3/h ~ 9 gO3/h</chinese>
+			</translation>
+			<translation id="membrel_8">
+				<english>User friendly with individual cell controls</english>
+				<chinese>用户友好的单元控制方式</chinese>
+			</translation>
+			<translation id="membrel_9">
+				<english>Remote control capabilities</english>
+				<chinese>远程控制</chinese>
+			</translation>
+			<translation id="membrel_10">
+				<english>No ionic contamination</english>
+				<chinese>无电离污染</chinese>
+			</translation>
+			<translation id="membrel_11">
+				<english>Easily installed maintaining system integrity</english>
+				<chinese>易于安装的一体化维护系统</chinese>
+			</translation>
+			<translation id="membrel_12">
+				<english>Recognized by all major pharmaceutical guidelines</english>
+				<chinese>已为制药行业标准所认可</chinese>
+			</translation>
+		</translations>
+	</section>
+	<section id="togc">
+		<translations>
+			<translation id="togc_2">
+				<english>TOGC Range</english>
+				<chinese>TOGC Range</chinese>
+			</translation>
+			<translation id="togc_3">
+				<english>The TOGC8X, 13X &amp; 45X are corona discharge ozone generators with variable output complete with an integrated oxygen concentrator and compressor. These models produce up to 8g/h, 13g/h or 45g/h, respectively, for smaller industrial ozone applications.</english>
+				<chinese>TOGC8X,13X,45X系列臭氧发生器为产量可变的电晕放电式臭氧发生器，配备内置式氧气浓缩机和压缩机。该系列设备臭氧产量可达到为8gO3/h或13gO3/h或45gO3/h，适于小型的工业臭氧处理和应用。</chinese>
+			</translation>
+			<translation id="togc_4">
+				<english>Each system incorporates function indicators, feed gas flowmeter, oxygen concentrator and variable output control, as well as a compressor driven oxygen concentrator with automatically regenerated desiccant columns.</english>
+				<chinese>该处理装置配备功能指示、原料气流量计、氧气浓缩机和可变输出控制。除此之外，处理装置还配备用于氧气浓缩机驱动的压缩机、自动再生型干燥柱。</chinese>
+			</translation>
+			<translation id="togc_5">
+				<english>Variable ozone output up to either 8g/h or 13g/h or 45g/h</english>
+				<chinese>可变臭氧输出到任何一个 8g/h 或者 13g/h或者45g/h</chinese>
+			</translation>
+			<translation id="togc_6">
+				<english>Complete with an oxygen concentrator and compressor</english>
+				<chinese>配套制氧机，氧气压缩机</chinese>
+			</translation>
+			<translation id="togc_7">
+				<english>Operating and maintenance manual included performance graphs</english>
+				<chinese>操作和维护手册，包括性能表</chinese>
+			</translation>
+			<translation id="togc_8">
+				<english>Operates under negative or positive pressure</english>
+				<chinese>负压或正压下运行</chinese>
+			</translation>
+			<translation id="togc_9">
+				<english>Illuminating switches indicating ozone production and faults</english>
+				<chinese>指示开关显示臭氧生产和故障状态</chinese>
+			</translation>
+			<translation id="togc_10">
+				<english>Air cooled (8X &amp; 13X)</english>
+				<chinese>风冷（8X及13X）</chinese>
+			</translation>
+			<translation id="togc_11">
+				<english>Water cooled (45X)</english>
+				<chinese>水冷（45X）</chinese>
+			</translation>
+		</translations>
+	</section>
+	<section id="ozfil">
+		<translations>
+			<translation id="ozfil_2">
+				<english>OZFIL™ &amp; OZSKID™ Water Treatment Systems</english>
+				<chinese>OZFIL™ &amp; OZSKID™ 水处理系统</chinese>
+			</translation>
+			<translation id="ozfil_3">
+				<english>The OZFIL™ &amp; OZSKID™ water treatment systems incorporates all of the components required to produce and apply ozone to the process water. Each skid mounted system includes an air dryer for the feed gas preparation; OZAT® ozone generator; motive water pump and injector system; stainless steel contact chamber; automatic degassing valve with vent ozone destruct unit; residual ozone analyzer; flow meter; circulation bypass; control system and all skid interconnections.</english>
+				<chinese>OZFIL 系列产品包括生产臭氧和将臭氧导入工艺水所需的各要素：原料气制备所用的空气干燥机；OZAT® 臭氧发生器；动力水泵和加注系统；不锈钢反应室（ 停留时间至少4 分钟）；以配备臭氧破坏单元的自动脱气阀；余留臭氧分析仪；流量计；循环旁通；控制系统和所有内部连接。</chinese>
+			</translation>
+			<translation id="ozfil_4">
+				<english>Complete treatment system on a skid</english>
+				<chinese>成套处理系统</chinese>
+			</translation>
+			<translation id="ozfil_5">
+				<english>Processor controlled</english>
+				<chinese>微处理器控制</chinese>
+			</translation>
+			<translation id="ozfil_6">
+				<english>Long service life</english>
+				<chinese>使用寿命长</chinese>
+			</translation>
+			<translation id="ozfil_7">
+				<english>Virtually maintenance-free</english>
+				<chinese>基本无维护</chinese>
+			</translation>
+			<translation id="ozfil_8">
+				<english>Easy integration</english>
+				<chinese>易于集成</chinese>
+			</translation>
+			<translation id="ozfil_9">
+				<english>Compact dimensions</english>
+				<chinese>占地面积小</chinese>
+			</translation>
+			<translation id="ozfil_10">
+				<english>High product integrity</english>
+				<chinese>产量高</chinese>
+			</translation>
+			<translation id="ozfil_11">
+				<english>Reliable and repeatable control</english>
+				<chinese>可靠的、可重复性控制手段</chinese>
+			</translation>
+		</translations>
+	</section>
+	<section id="vod" >
+		<translations>
+			<translation id="vod_2">
+				<english>VOD Series RB™</english>
+				<chinese>VOD Series RB™</chinese>
+			</translation>
+			<translation id="vod_3">
+				<english>Exhaust gases from processes where ozone has been used invariably contain residual amounts of un-reacted ozone. Before this exhaust can be vented to atmosphere it is necessary to decompose the traces of ozone. In most countries it is forbidden to exhaust even low concentrations to atmosphere.</english>
+				<chinese>处理过程中排放的废气含有少量尚未反应的臭氧，在排放之前必须进行分解处理。大多数国家对此类气体的排放有严格限制，即便所含臭氧浓度极低也必须进行处理。</chinese>
+			</translation>
+			<translation id="vod_4">
+				<english>The vent gases leaving the process are routed to the RO vent ozone destruct unit. In the reaction chamber the gases are heated-up to around 752°F which radically reduces the half-life of the ozone molecule and, consequently, accelerates the decomposition rate so that the ozone content in the gas stream leaving the VOD is well below the recognized safety limits (&lt;0.1 ppm). In order to reduce the electrical requirement for heating the system incorporates a heat recuperation feature.</english>
+				<chinese>排出的废气送入RBTM 臭氧尾气破坏装置，在反应室内被加热至752°F左右，此时臭氧分子的半衰期已缩短至毫秒，臭氧分解速率也相应加快。尾气破坏装置出口气流中的臭氧含量低于公认的安全限值(&lt;0.1 ppm)。该系列产品特别配备热量回收系统，以最小化系统加热的电气要求。</chinese>
+			</translation>
+			<translation id="vod_5">
+				<english>Very high ozone destruct efficiency</english>
+				<chinese>臭氧破坏效率高</chinese>
+			</translation>
+			<translation id="vod_6">
+				<english>Low power consumption</english>
+				<chinese>能耗低</chinese>
+			</translation>
+			<translation id="vod_7">
+				<english>Long service life</english>
+				<chinese>服务周期长</chinese>
+			</translation>
+			<translation id="vod_8">
+				<english>Virtually maintenance-free</english>
+				<chinese>基本无维护</chinese>
+			</translation>
+			<translation id="vod_9">
+				<english>Easy integration</english>
+				<chinese>易于集成</chinese>
+			</translation>
+			<translation id="vod_10">
+				<english>Compact dimensions</english>
+				<chinese>占地面积小</chinese>
+			</translation>
+			<translation id="vod_11">
+				<english>High product integrity</english>
+				<chinese>产品利用率高</chinese>
+			</translation>
+		</translations>
+	</section>
+	<section id="odt">
+		<translations>
+			<translation id="odt_2">
+				<english>ODT™ Series</english>
+				<chinese>ODT™ 系列</chinese>
+			</translation>
+			<translation id="odt_3">
+				<english>Exhaust gases from processes where ozone has been used invariably contain residual amounts of un-reacted ozone. Before this exhaust can be vented to atmosphere it is necessary to decompose the traces of ozone. In most countries it is forbidden to exhaust even low concentrations to atmosphere.</english>
+				<chinese>处理过程中产生的废气含有少量尚未反应的臭氧，在排放之前必须进行分解处理。大多数国家对此类气体的排放有严格限制，即便所含臭氧浓度极低也必须进行处理。目前存在几种不同的尾气处理方法，最常见的两种是加热和催化破坏，具体选择哪种方式取决于所采用的工艺。加热处理是提高排放废气的温度至一定水平，使臭氧分子的半衰期缩短至毫秒。</chinese>
+			</translation>
+			<translation id="odt_4">
+				<english>The vent gases leaving the process are routed to the ODT™ vent ozone destruct unit. In the reaction chamber the gases are heated up to around 400°C which radically reduces the half-life of the ozone molecule and, consequently, accelerates the decomposition rate so that the ozone content in the gas stream leaving the ODT™ is well below the recognized safety limits (&lt;0.1 ppm).</english>
+				<chinese>排出的废气送入ODTTM 尾气破坏装置，在反应室内被加热至400℃左右，此时臭氧分子的半衰期已缩短至毫秒，臭氧分解速率相应加快。尾气破坏装置出口气流中的臭氧含量在公认的安全限值(&lt;0.1ppm) 以下。</chinese>
+			</translation>
+			<translation id="odt_5">
+				<english>The temperature in the reaction chamber is thermostatically controlled.</english>
+				<chinese>反应室内的温度为恒温控制。</chinese>
+			</translation>
+			<translation id="odt_6">
+				<english>Very high ozone destruct efficiency</english>
+				<chinese>臭氧破坏效率高</chinese>
+			</translation>
+			<translation id="odt_7">
+				<english>Processor controlled</english>
+				<chinese>微处理器控制</chinese>
+			</translation>
+			<translation id="odt_8">
+				<english>Long service life</english>
+				<chinese>服务周期长</chinese>
+			</translation>
+			<translation id="odt_9">
+				<english>Virtually maintenance-free</english>
+				<chinese>基本无维护</chinese>
+			</translation>
+			<translation id="odt_10">
+				<english>Easy integration</english>
+				<chinese>易于集成</chinese>
+			</translation>
+			<translation id="odt_11">
+				<english>Compact dimensions</english>
+				<chinese>占地面积小</chinese>
+			</translation>
+			<translation id="odt_12">
+				<english>High product integrity</english>
+				<chinese>产品利用率高</chinese>
+			</translation>
+		</translations>
+	</section>
+	<section id="ik">
+		<translations>
+			<translation id="ik_2">
+				<english>IK™ Series</english>
+				<chinese>IK™ 系列</chinese>
+			</translation>
+			<translation id="ik_3">
+				<english>Exhaust gases from processes where ozone has been used invariably contain residual amounts of un-reacted ozone. Before this exhaust can be vented to atmosphere it is necessary to decompose the traces of ozone. In most countries it is forbidden to exhaust even low concentrations to atmosphere.</english>
+				<chinese>处理过程中排放的废气含有少量尚未反应的臭氧，在排放之前必须进行分解处理。大多数国家对此类气体的排放有严格限制，即便所含臭氧浓度极低也必须进行处理。</chinese>
+			</translation>
+			<translation id="ik_4">
+				<english>Normally, vent gases are saturated with water vapor and contain ozone levels up to 1.5 wt%. Before these gases can be treated it is necessary to heat them so that the relative humidity is less than 100% in order to prevent condensation forming on the surface of the catalyst.</english>
+				<chinese>通常情况下，排放气体和水蒸汽混合处于饱和状态，臭氧含量最高不超过1.5wt%。在进行处理之前，有必要对排放气体进行加热，使其相对湿度低于100%，以防止在触媒表面出现冷凝情况。</chinese>
+			</translation>
+			<translation id="ik_5">
+				<english>Catalytic destruction does not require high temperatures and very rapidly decomposes ozone to oxygen. Care has to be taken to ensure that catalytic poisons do not enter the system. The IK units include the heater and reaction chamber.</english>
+				<chinese>催化破坏并不要求高温快速分解臭氧。处理过程中须谨慎操作保证催化有毒物质不会重新进入系统中。IKTM 系列配备加热器和反应室。</chinese>
+			</translation>
+			<translation id="ik_6">
+				<english>Very high ozone destruct efficiency</english>
+				<chinese>臭氧破坏效率高</chinese>
+			</translation>
+			<translation id="ik_7">
+				<english>Low power consumption</english>
+				<chinese>能耗低</chinese>
+			</translation>
+			<translation id="ik_8">
+				<english>Long service life</english>
+				<chinese>服务周期长</chinese>
+			</translation>
+			<translation id="ik_9">
+				<english>Virtually maintenance-free</english>
+				<chinese>基本无维护</chinese>
+			</translation>
+			<translation id="ik_10">
+				<english>Easy integration</english>
+				<chinese>易于集成</chinese>
+			</translation>
+			<translation id="ik_11">
+				<english>Compact dimensions</english>
+				<chinese>占地面积小</chinese>
+			</translation>
+			<translation id="ik_12">
+				<english>High product integrity</english>
+				<chinese>产品利用率高</chinese>
+			</translation>
+		</translations>
+	</section>
+</sections>
