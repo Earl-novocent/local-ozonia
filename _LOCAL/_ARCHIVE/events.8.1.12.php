@@ -79,7 +79,7 @@
 			min-height: 107px;
 			}
 			.left ul.events li:hover{
-				border:5px solid #00B9E8;
+				border:5px solid #aadc14;
 				background-color: rgb(248,248,248);
 				box-shadow: 0 0 12px grey;
 			}

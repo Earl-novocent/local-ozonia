@@ -149,7 +149,7 @@
 		    width:250px;
 		}	
 		.ui-widget-content{
-			background:#00a8e4;
+			background:#aadc14;
 		    padding-left: 10px;
 		}	
 		.ui-widget-content a {
@@ -163,7 +163,7 @@
 			position: relative;
 		}
 		.info-head{
-			color:#00a8e4;
+			color:#aadc14;
 			font-family: Tahoma;
 			font-weight: bold;
 		}
