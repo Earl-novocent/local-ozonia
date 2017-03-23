@@ -38,7 +38,7 @@ if ($_SESSION['USA']) {
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 	<head>
 <?php include('includes/common-head.php') ?>		
-		<title>Ozonia</title>
+		<title>ozonia&reg;</title>
 		<script type="text/javascript" src="scripts/jquery.innerfade.js"></script>
 		<script type="text/javascript" src="scripts/jquery.hoverIntent.minified.js"></script>
 		
@@ -162,16 +162,16 @@ if ($_SESSION['USA']) {
 							</li>							
 							-->
 							<li class="slide">
-								<h2>Ozonia celebrates the opening of it's new production center</h2>							
-								<img src="images/slides/production-center-2.jpg" alt="Ozonia Customer Care" class="left"/>
+								<h2>ozonia&reg; celebrates the opening of it's new production center</h2>							
+								<img src="images/slides/production-center-2.jpg" alt="ozonia&reg; Customer Care" class="left"/>
 								
-								<p>Ozonia is proud to introduce its new high-tech and innovative production facility.</p>		
+								<p>ozonia&reg; is proud to introduce its new high-tech and innovative production facility.</p>		
 								<a href="about.php" class="ozoniaButton left">Learn More</a>
 
 							</li>								
 														
 							<li class="slide">	
-								<h2 style="margin-bottom:15px;">Welcome to Ozonia's New Website</h2>	
+								<h2 style="margin-bottom:15px;">Welcome to ozonia&reg;'s New Website</h2>	
 								<img src="images/slides/hero-welcome.png" alt="Advanced Oxidation Process" class="right"/>
 				    			<p>Start by browsing our <a href="ozone.php">Ozone</a> or <a href="uv.php">UV</a> technology pages or try our new Solution Finder. </p>				    				
 								<a href="app.php" class="ozoniaButton left">Learn More</a>
@@ -181,22 +181,22 @@ if ($_SESSION['USA']) {
 							<li class="slide">		
 								<img src="images/slides/hero-app.jpg" alt="Advanced Oxidation Process" class="right"/>
 								<h2>Discover a world of applications tailored to your needs</h2>	
-				    			<p>As a world leader in <a href="ozone.php">Ozone</a> and <a href="uv.php">UV</a>  water treatment, Ozonia has the experience and know how to provide real solutions to your water treatment challenges.</p>
+				    			<p>As a world leader in <a href="ozone.php">Ozone</a> and <a href="uv.php">UV</a>  water treatment, ozonia&reg; has the experience and know how to provide real solutions to your water treatment challenges.</p>
 								<a href="app.php" class="ozoniaButton left">Learn More</a>
 							</li>
 									
 							<li class="slide">	
 								<img src="images/slides/hero-pulp2.jpg" alt="OZAT CFV ozone disinfection" class="right"/>	
 								<h2>Pulp & Paper</h2>								
-								<p>Bahia Specialty Cellulose relies on Ozonia to produce 60kg Ozone/h.</p>								
+								<p>Bahia Specialty Cellulose relies on ozonia&reg; to produce 60kg Ozone/h.</p>								
 								<a href="industrialapp.php#pulp" class="ozoniaButton left">Learn More</a>
 								
 							</li>
 							
 							<li class="slide">
-								<img src="images/slides/hero-service.jpg" alt="Ozonia Customer Care" class="left"/>
+								<img src="images/slides/hero-service.jpg" alt="ozonia&reg; Customer Care" class="left"/>
 								<h2>Protect your process. Optimize your operation.</h2>
-								<p>Ozonia is committed to providing complete technical support. For any query that arises in connection with the operation of an Ozonia product our service team is easily accessible and ready to help.</p>
+								<p>ozonia&reg; is committed to providing complete technical support. For any query that arises in connection with the operation of an ozonia&reg; product our service team is easily accessible and ready to help.</p>
 								<a href="contact.php" class="ozoniaButton right">Contact Us</a>
 
 							</li>							
@@ -252,7 +252,7 @@ if ($_SESSION['USA']) {
 		    <li><a href="uv.php"><img src="images/features/uv.png" alt="Ultraviolet Disinfection" /><span>UV</span></a></li>
 		    <li><a href="aop.php"><img src="images/features/aop.png" alt="Advanced Oxidation Process"/><span>AOP</span></a></li>
 		    <li><a href="app.php"><img src="images/features/applications2.png" alt="Ozone and UV disinfection application" /><span>Applications</span></a></li>
-		    <li><a href="parts.php"><img src="images/features/service.png" alt="Ozonia Customer Care" /><span>Service</span></a></li>
+		    <li><a href="parts.php"><img src="images/features/service.png" alt="ozonia&reg; Customer Care" /><span>Service</span></a></li>
 		</ul>
 			
 		<?php include('includes/footer.php') ?>

@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 	<head>
 		<?php include('includes/common-head.php'); ?>
-		<title>Ozonia | About</title>
+		<title>ozonia&reg; | About</title>
 		<link rel="stylesheet" type="text/css" href="scripts/jquery.lightbox/js/lightbox/themes/default/jquery.lightbox.css" />
 		<!--[if IE 6]>
 		<link rel="stylesheet" type="text/css" href="scripts/jquery.lightbox/js/lightbox/themes/default/jquery.lightbox.ie6.css" />
@@ -43,7 +43,7 @@
 			</div>
 
 			<div class="pagecontent cc-block clearfix">
-				<h2 class="section-title">About Ozonia</h2>
+				<h2 class="section-title">About ozonia&reg;</h2>
 				<div class="left">
 <p>Although OZONIA was founded in 1990 it has more than 35 years of experience in developing, designing, manufacturing and installing treatment systems due to its ABB Asea Brown Boveri and Degrémont roots back in the 70s. OZONIA is owned by Degrémont which took over the ozone and UV business activities and professionals from ABB. OZONIA’s products are available worldwide through 9 affiliates located in Zurich (Headquarters, Switzerland), New York (USA), Glasgow (Scotland) , Paris (France), Nizhny Novgorod (Russia), Beijing and Tianjin (China), Seoul (Korea) and Tokyo (Japan). In addition to these wholly owned affiliates OZONIA has a network of Resellers and Original Equipment Manufacturers all over the world.</p>
 <p>OZONIA has developed the most efficient ozone and ultraviolet generating technologies available today, and is ranked as one of the world’s leading suppliers for this type of equipment. OZONIA can draw on extensive knowledge relating to both ozone and ultraviolet application technology and, because of this expertise, has built-up a unique ability to deliver complete systems which ensure economical operation as well as the highest operational and personal safety.</p>
@@ -51,9 +51,9 @@
 
           <ul class="ogal clearfix">
             <li><a href="images/office/oag1.jpg" class="lightbox" rel="group1"><img class="inset" src="images/office/oag1t.jpg" alt=""/></a></li>
-            <li><a href="images/office/oag2.jpg" class="lightbox" rel="group1" title="Ozonia Ltd Headquarters, Design & Manufacturing Facilities in Duebendorf,
+            <li><a href="images/office/oag2.jpg" class="lightbox" rel="group1" title="ozonia&reg; Ltd Headquarters, Design & Manufacturing Facilities in Duebendorf,
 Switzerland"><img src="images/office/oag2t.jpg" alt=""/></a></li>
-            <li><a href="images/office/ona1.jpg" class="lightbox" rel="group1" title="Ozonia North America corporate Headquarters in Leonia, NJ"><img src="images/office/ona1t.jpg" alt=""/></a></li>
+            <li><a href="images/office/ona1.jpg" class="lightbox" rel="group1" title="ozonia&reg; North America corporate Headquarters in Leonia, NJ"><img src="images/office/ona1t.jpg" alt=""/></a></li>
             <li><a href="images/office/ona2.jpg" class="lightbox" rel="group1" ><img src="images/office/ona2t.jpg" alt=""/></a></li>
           </ul>
 
@@ -64,7 +64,7 @@ Switzerland"><img src="images/office/oag2t.jpg" alt=""/></a></li>
 					<h4>OZONIA - What a Story!</h4>
 					<img src="images/ozonia-book.jpg" height="200" width="300" alt="" />
 					<p><a href="media/flash/ozonia-book.swf" class="ozoniaButton modal">Read the Book Now</a></p>
-					<p style="margin-top:30px;">Ozonia is proud to be OHSAS 18001 and ISO 9001 certified</p>
+					<p style="margin-top:30px;">ozonia&reg; is proud to be OHSAS 18001 and ISO 9001 certified</p>
 					<img src="images/certs.jpg" alt="certs" width="150" height="146" />
 					<p><a href="media/pdf/certs/ENG_CERTIFICATIONS_OZONIA.pdf">Full Certifications List &raquo;</a></p>
 					

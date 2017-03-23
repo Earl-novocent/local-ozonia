@@ -6,7 +6,7 @@
 		include('includes/common-head.php');
 		include('includes/common-headcarousel.php');
 	?>
-		<title>Ozonia | UV Solutions</title>
+		<title>ozonia&reg; | UV Solutions</title>
 		<script type="text/javascript" src="scripts/ozonia_custom.js"></script>
 		<script type="text/javascript">
 			$(document).ready(function() {
@@ -63,14 +63,14 @@
 					<div class="cc-block active" id="uv">
 						<div class="left">
 							<h3>Ultraviolet Solutions</h3>
-							<p>Ultraviolet (UV) disinfection is environmentally safe and recognized as highly effective on a wide range of pathogens, including viruses. For the past 20 years, Ozonia has been providing UV systems for disinfection, reuse and photochemical oxidation. Today, Ozonia offers a complete range of UV products for municipal wastewater, municipal drinking water and all industrial applications.</p>
+							<p>Ultraviolet (UV) disinfection is environmentally safe and recognized as highly effective on a wide range of pathogens, including viruses. For the past 20 years, ozonia&reg; has been providing UV systems for disinfection, reuse and photochemical oxidation. Today, ozonia&reg; offers a complete range of UV products for municipal wastewater, municipal drinking water and all industrial applications.</p>
 							<p>UV irradiation systems disinfect by inactivating pathogenic microorganisms, such as viruses, bacteria and parasites.</p>
 
 
 
 							<p>In the UV-C light spectrum (200-280 nm), the wavelength 254nm has been proven to be the most efficient wavelength to inactivate micro-organisms by damaging the nucleic acids (DNA and RNA), which disrupts the organism&rsquo;s ability to replicate.</p>
 							<p>In normal applications, UV has the advantage that no chemicals are added to the water being treated and that no disinfection by-products are formed. Due to the small foot print, the UV equipment can be easily integrated into most existing water treatment plants.</p>
-							<p>Ozonia has developed an extensive range of AQUARAY<sup>&reg;</sup> products which are ideally suited for municipal and industrial applications.</p>
+							<p>ozonia&reg; has developed an extensive range of AQUARAY<sup>&reg;</sup> products which are ideally suited for municipal and industrial applications.</p>
 
 							<p><a class="lightbox ozoniaButton_small" href="media/flash/ARloader.swf?lightbox[width]=850&lightbox[height]=516">Aquaray H<sub>2</sub>O Animation &raquo;</a></p>
 
@@ -105,13 +105,13 @@
 					<div class="cc-block" id="hicap">
 						<div class="left">
 							<h3>Aquaray HiCAP&trade;</h3>
-							<p>Ozonia’s legacy of high quality and easily maintained ultraviolet disinfection products continues with the newest addition to the Aquaray® Vertical Lamp System (VLS) product line.</p><p>The Aquaray HiCAP™ UV Disinfection System is designed for High CAPacity wastewater treatment plants where reduced footprint and cost of ownership are paramount. The Aquaray HiCAP™ incorporates Ozonia’s newest innovations in a cost competitive package.</p>
+							<p>ozonia&reg;’s legacy of high quality and easily maintained ultraviolet disinfection products continues with the newest addition to the Aquaray® Vertical Lamp System (VLS) product line.</p><p>The Aquaray HiCAP™ UV Disinfection System is designed for High CAPacity wastewater treatment plants where reduced footprint and cost of ownership are paramount. The Aquaray HiCAP™ incorporates ozonia&reg;’s newest innovations in a cost competitive package.</p>
 							<p>For more information, please download the Aquaray HiCAP&trade; brochure.</p>
 							<h4>Features &amp; Benefits</h4>
 							<ul>
 								<li>High Power Amalgam Lamp:</li>
 									<ul>
-										<li>Ozonia’s 1000 Watt amalgam lamp and ballast combination provides high performance disinfection</li>
+										<li>ozonia&reg;’s 1000 Watt amalgam lamp and ballast combination provides high performance disinfection</li>
 										<li>Up to 50% fewer lamps</li>
 									</ul>
 									</li>
@@ -129,7 +129,7 @@
 								</li>
 								<li>Optional Integrated UV Bank Lifting System:
 									<ul>
-										<li>Ozonia’s newest innovation simplifies maintenance</li>
+										<li>ozonia&reg;’s newest innovation simplifies maintenance</li>
 										<li>Winterization is made easy</li>
 									</ul>
 								</li>
@@ -141,14 +141,14 @@
 								</li>
 								<li>Easy Maintenance:
 									<ul>
-										<li>Proven Ozonia Vertical Lamp System (VLS) Design</li>
+										<li>Proven ozonia&reg; Vertical Lamp System (VLS) Design</li>
 										<li>Above channel access to UV lamps and quartz sleeves</li>
 										<li>No need to remove the UV module from the channel for maintenance</li>
 									</ul>
 								</li>
 								<li>Reduced Footprint:
 									<ul>
-										<li>The Aquaray HiCAP&trade; utilizes Ozonia’s proven VLS design to optimize each UV system’s footprint and minimize channel dimensions.</li>
+										<li>The Aquaray HiCAP&trade; utilizes ozonia&reg;’s proven VLS design to optimize each UV system’s footprint and minimize channel dimensions.</li>
 									</ul>
 								</li>
 							</ul>
@@ -196,13 +196,13 @@
 								    <li>
 								    	<a target="_blank" href="media/pdf/uv/Aquaray-3X-screen.pdf">
 								    	<img src="media/pdf/tn/uv/Aquaray-3X-screen001.jpg" alt="Aquaray-3X-screen001" width="106" height="150" />
-								    	<div><span>Ozonia - Aquaray<sup>&reg;</sup> 3X</span></div>
+								    	<div><span>ozonia&reg; - Aquaray<sup>&reg;</sup> 3X</span></div>
 								    	</a>
 								    </li>
 								    <li>
 								    	<a target="_blank" href="media/pdf/uv/Aquaray-3X-US-units.pdf">
 								    	<img src="media/pdf/tn/uv/Aquaray-3X-screen001.jpg" alt="Aquaray-3X-screen001" width="106" height="150" />
-								    	<div><span>Ozonia - Aquaray<sup>&reg;</sup> 3X <br />(US Units)</span></div>
+								    	<div><span>ozonia&reg; - Aquaray<sup>&reg;</sup> 3X <br />(US Units)</span></div>
 								    	</a>
 								    </li>
 								</ul>
@@ -232,13 +232,13 @@
 								    <li>
 								    	<a target="_blank" href="media/pdf/uv/Aquaray-40HO-screen.pdf">
 								    	<img src="media/pdf/tn/uv/Aquaray-40HO-screen001.jpg" alt="Aquaray-40HO-screen001" width="106" height="150" />
-								    	<div><span>Ozonia - Aquaray<sup>&reg;</sup> 40 HO</span></div>
+								    	<div><span>ozonia&reg; - Aquaray<sup>&reg;</sup> 40 HO</span></div>
 								    	</a>
 								    </li>
 								    <li>
 								    	<a target="_blank" href="media/pdf/uv/Aquaray-40HO-US-units.pdf">
 								    	<img src="media/pdf/tn/uv/Aquaray-40HO-screen001.jpg" alt="Aquaray-40HO-screen001" width="106" height="150" />
-								    	<div><span>Ozonia - Aquaray<sup>&reg;</sup> 40 HO <br />(US Units)</span></div>
+								    	<div><span>ozonia&reg; - Aquaray<sup>&reg;</sup> 40 HO <br />(US Units)</span></div>
 								    	</a>
 								    </li>
 								</ul>
@@ -267,13 +267,13 @@
 								    <li>
 								    	<a target="_blank" href="media/pdf/uv/Aquaray-H2O-screen.pdf">
 								    	<img src="media/pdf/tn/uv/Aquaray-H2O-screen001.jpg" alt="Aquaray-H2O-screen001" width="106" height="150" />
-								    	<div><span>Ozonia - H2O</span></div>
+								    	<div><span>ozonia&reg; - H2O</span></div>
 								    	</a>
 								    </li>
 								    <li>
 								    	<a target="_blank" href="media/pdf/uv/Aquaray-H2O-US-units.pdf">
 								    	<img src="media/pdf/tn/uv/Aquaray-H2O-screen001.jpg" alt="Aquaray-H2O-screen001" width="106" height="150" />
-								    	<div><span>Ozonia - H2O <br />(US Units)</span></div>
+								    	<div><span>ozonia&reg; - H2O <br />(US Units)</span></div>
 								    	</a>
 								    </li>
 								</ul>
@@ -304,25 +304,25 @@
 									<li>
 										<a target="_blank" href="media/pdf/uv/LP-screen.pdf">
 										<img src="media/pdf/tn/uv/LP-screen001.jpg" alt="LP-screen001" width="106" height="150" />
-										<div><span>Ozonia - Aquaray<sup>&reg;</sup> LP</span></div>
+										<div><span>ozonia&reg; - Aquaray<sup>&reg;</sup> LP</span></div>
 										</a>
 									</li>
 									<li>
 										<a target="_blank" href="media/pdf/uv/LP-US-units.pdf">
 										<img src="media/pdf/tn/uv/LP-screen001.jpg" alt="LP-screen001" width="106" height="150" />
-										<div><span>Ozonia - Aquaray<sup>&reg;</sup> LP <br />(US Units)</span></div>
+										<div><span>ozonia&reg; - Aquaray<sup>&reg;</sup> LP <br />(US Units)</span></div>
 										</a>
 									</li>
 									<li>
 										<a target="_blank" href="media/pdf/uv/LPTS-screen.pdf">
 										<img src="media/pdf/tn/uv/LPTS-screen001.jpg" alt="LPTS-screen001" width="106" height="150" />
-										<div><span>Ozonia - Aquaray<sup>&reg;</sup> LPTS</span></div>
+										<div><span>ozonia&reg; - Aquaray<sup>&reg;</sup> LPTS</span></div>
 										</a>
 									</li>
 									<li>
 										<a target="_blank" href="media/pdf/uv/LPTS-US units.pdf">
 										<img src="media/pdf/tn/uv/LPTS-screen001.jpg" alt="LPTS-screen001" width="106" height="150" />
-										<div><span>Ozonia - Aquaray<sup>&reg;</sup> LPTS <br />(US Units)</span></div>
+										<div><span>ozonia&reg; - Aquaray<sup>&reg;</sup> LPTS <br />(US Units)</span></div>
 										</a>
 									</li>
 								</ul>
@@ -357,25 +357,25 @@
 									<li>
 										<a target="_blank" href="media/pdf/uv/SLP-DW-PW-screen.pdf">
 										<img src="media/pdf/tn/uv/SLP-DW-PW-screen001.jpg" alt="SLP-DW-PW-screen001" width="106" height="150" />
-										<div><span>Ozonia - Aquaray<sup>&reg;</sup> SLP DW/PW</span></div>
+										<div><span>ozonia&reg; - Aquaray<sup>&reg;</sup> SLP DW/PW</span></div>
 										</a>
 									</li>
 									<li>
 										<a target="_blank" href="media/pdf/uv/SLP-DW-PW-US units.pdf">
 										<img src="media/pdf/tn/uv/SLP-DW-PW-screen001.jpg" alt="SLP-DW-PW-screen001" width="106" height="150" />
-										<div><span>Ozonia - Aquaray<sup>&reg;</sup> SLP DW/PW <br />(US Units)</span></div>
+										<div><span>ozonia&reg; - Aquaray<sup>&reg;</sup> SLP DW/PW <br />(US Units)</span></div>
 										</a>
 									</li>
 									<li>
 										<a target="_blank" href="media/pdf/uv/SLP-WW-screen.pdf">
 										<img src="media/pdf/tn/uv/SLP-WW-screen001.jpg" alt="SLP-WW-screen001" width="106" height="150" />
-										<div><span>Ozonia - Aquaray<sup>&reg;</sup> SLP WW</span></div>
+										<div><span>ozonia&reg; - Aquaray<sup>&reg;</sup> SLP WW</span></div>
 										</a>
 									</li>
 									<li>
 										<a target="_blank" href="media/pdf/uv/SLP-WW-US units.pdf">
 										<img src="media/pdf/tn/uv/SLP-WW-screen001.jpg" alt="SLP-WW-screen001" width="106" height="150" />
-										<div><span>Ozonia - Aquaray<sup>&reg;</sup> SLP WW<br />(US Units)</span></div>
+										<div><span>ozonia&reg; - Aquaray<sup>&reg;</sup> SLP WW<br />(US Units)</span></div>
 										</a>
 									</li>
 								</ul>
@@ -410,25 +410,25 @@
 									<li>
 										<a target="_blank" href="media/pdf/uv/SMP-DW-PW-screen.pdf">
 										<img src="media/pdf/tn/uv/SMP-DW-PW-screen001.jpg" alt="SMP-DW-PW-screen001" width="106" height="150" />
-										<div><span>Ozonia - Aquaray<sup>&reg;</sup> SMP DW/PW</span></div>
+										<div><span>ozonia&reg; - Aquaray<sup>&reg;</sup> SMP DW/PW</span></div>
 										</a>
 									</li>
 									<li>
 										<a target="_blank" href="media/pdf/uv/SMP-DW-PW-US units.pdf">
 										<img src="media/pdf/tn/uv/SMP-DW-PW-screen001.jpg" alt="SMP-DW-PW-screen001" width="106" height="150" />
-										<div><span>Ozonia - Aquaray<sup>&reg;</sup> SMP DW/PW<br />(US Units)</span></div>
+										<div><span>ozonia&reg; - Aquaray<sup>&reg;</sup> SMP DW/PW<br />(US Units)</span></div>
 										</a>
 									</li>
 									<li>
 										<a target="_blank" href="media/pdf/uv/SMP-WW-screen.pdf">
 										<img src="media/pdf/tn/uv/SMP-WW-screen001.jpg" alt="SMP-WW-screen001" width="106" height="150" />
-										<div><span>Ozonia - Aquaray<sup>&reg;</sup> SMP WW</span></div>
+										<div><span>ozonia&reg; - Aquaray<sup>&reg;</sup> SMP WW</span></div>
 										</a>
 									</li>
 									<li>
 										<a target="_blank" href="media/pdf/uv/SMP-WW-US units.pdf">
 										<img src="media/pdf/tn/uv/SMP-WW-screen001.jpg" alt="SMP-WW-screen001" width="106" height="150" />
-										<div><span>Ozonia - Aquaray<sup>&reg;</sup> SMP WW<br />(US Units)</span></div>
+										<div><span>ozonia&reg; - Aquaray<sup>&reg;</sup> SMP WW<br />(US Units)</span></div>
 										</a>
 									</li>
 								</ul>

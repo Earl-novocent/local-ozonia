@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 	<head>
 		<?php include('includes/common-head.php') ?>
-		<title>Ozonia</title>
+		<title>ozonia&reg;</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<script type="text/javascript" src="scripts/jquery.innerfade.js"></script>
 		<script type="text/javascript" src="scripts/jquery.hoverIntent.minified.js"></script>
@@ -154,12 +154,12 @@
 							<li class="slide">
 								<h2>How Do You Treat Micropollutants?</h2>
 								<img src="images/slides/Nuage-Micropolluants_opt.jpg" alt="Micropollutants" class="right" width="150"/>
-								<p>As a leader in environmental protection, Switzerland has introduced legislation which will upgrade its main wastewater treatment facilities to protect the community and environment from emerging contaminants.In Switzerland and worldwide, Ozonia has played a pioneering role in the field of micropollutant treatment by providing tailored solutions using Ozonia’s OxEM™ process.</p>
+								<p>As a leader in environmental protection, Switzerland has introduced legislation which will upgrade its main wastewater treatment facilities to protect the community and environment from emerging contaminants.In Switzerland and worldwide, ozonia&reg; has played a pioneering role in the field of micropollutant treatment by providing tailored solutions using ozonia&reg;’s OxEM™ process.</p>
 								<a target="_blank" class="ozoniaButton left" href="http://oxem.ozonia.com">Learn more</a>
 							</li>
 
 							<li class="slide">
-								<h2>Discover Ozonia 360° Customer Care</h2>
+								<h2>Discover ozonia&reg; 360° Customer Care</h2>
 								<img src="images/slides/360.jpg" class="right" width="200" />
 								<p>Our expertly trained Customer Care teams provide service, repairs, maintenance, training, and know-how transfer. Find out how we add value to customers and suppliers alike.</p>
 								<a class="ozoniaButton left" href="http://ozonia.com/parts.php">Learn more</a>
@@ -168,21 +168,21 @@
 							<li class="slide">
 								<img src="images/slides/app.jpg" class="right" width="150" />
 								<h2>Countless Applications</h2>
-								<p>Ozone, UV and AOP based processes are already used in numerous applications in the Municipal, Industrial, and Leisure sector today. Learn how you can benefit from Ozonia’s expertise.</p>
+								<p>Ozone, UV and AOP based processes are already used in numerous applications in the Municipal, Industrial, and Leisure sector today. Learn how you can benefit from ozonia&reg;’s expertise.</p>
 								<a class="ozoniaButton left" href="http://www.ozonia.com/app.php">Learn more</a>
 							</li>
 
 							<li class="slide">
 								<h2>Innovation: Our Inspiration</h2>
 								<img src="images/slides/innovation.jpg" class="right" width="200" />
-								<p>As a globally recognized leader in oxidation and disinfection, Ozonia has a strong commitment to creating value with focused programs across its organization. Ozonia is investing in cutting edge research and development to bring the most innovative solutions in ozone and UV technologies to the market.</p>
+								<p>As a globally recognized leader in oxidation and disinfection, ozonia&reg; has a strong commitment to creating value with focused programs across its organization. ozonia&reg; is investing in cutting edge research and development to bring the most innovative solutions in ozone and UV technologies to the market.</p>
 								<a class="ozoniaButton left" href="http://ozonia.com/innovation.php">Learn more</a>
 							</li>
 
 							<li class="slide">
 								<h2>Meet the Aquaray HiCAP™</h2>
 								<img src="images/slides/hicap.jpg" class="right" width="220" />
-								<p>The Aquaray HiCAP™ UV system provides validated disinfection performance under even the most challenging conditions for primary, secondary or reuse applications. Find out how Ozonia’s innovation can help your facility meet its goals.</p>
+								<p>The Aquaray HiCAP™ UV system provides validated disinfection performance under even the most challenging conditions for primary, secondary or reuse applications. Find out how ozonia&reg;’s innovation can help your facility meet its goals.</p>
 								<a class="ozoniaButton left" href="http://www.ozonia.com/uv.php#hicap">Learn more</a>
 							</li>
 
@@ -205,7 +205,7 @@
 						<p><strong>EU Biocidal Products Regulations: From September 1st 2013 Ozone is regulated as an active substance. Under EU law the Biocidal Product Regulation requires both substance and product registration for ozone equipment. Four manufacturers of ozone equipment have joined forces to prepare and submit an active substance dossier for the approval of ozone.</strong></p>
 						<p>Since September 1st 2013 the Biocidal Product Regulation EU/528/2012 (BPR) is in force and is superseding the former Biocidal Product Directive 98/8/EC (BPD). In the past ozone was already recognized as a biocide, but its registration obligations were exempted under the BPD; following special rules for in-situ produced biocides. This special status has now been revoked under the BPR. As a result ozone equipment which is placed in the EU market for biocidal applications (e.g. disinfection) requires EU authorization. After September 2017 the transitional periods will come to an end and compliance with the BPR is required.</p>
 						<p>The authorization is a two-step procedure. First, ozone itself has to be added to the list of approved “active substances” (AS). Second, the ozone generation equipment needs to be authorized as “biocidal product”. It is unlikely that users of ozone equipment will be able to undertake the authorization procedure alone. This is due to detailed specialist know-how required and the high cost associated with the process. Therefore the manufacturers of the equipment will have to provide the biocidal product authorization of ozone equipment to their customers.      </p>
-						<p>Four ozone equipment manufacturers have joined forces as part of the “Ozone Registration Group” to accomplish the authorization of ozone as an active substance.  These manufacturers are BWT, Degrémont Technologies (Ozonia), ProMinent and Xylem (WEDECO).  The target of this joint effort is to submit a so called “active substance dossier” for ozone; addressing several ozone applications (product types) and have ozone finally added to the list of active substances. This can be expected from 
+						<p>Four ozone equipment manufacturers have joined forces as part of the “Ozone Registration Group” to accomplish the authorization of ozone as an active substance.  These manufacturers are BWT, Degrémont Technologies (ozonia&reg;), ProMinent and Xylem (WEDECO).  The target of this joint effort is to submit a so called “active substance dossier” for ozone; addressing several ozone applications (product types) and have ozone finally added to the list of active substances. This can be expected from 
 							September 1st 2017 onwards. </p>
 						<p>The Ozone Registration Group will provide access to their AS dossier by means of a “Letter of Access” (LoA). This will be available to anyone in need to carrying out the biocidal product registration and waiving the requirement of writing and submitting an own active substance dossier for ozone. This is providing a huge benefit regarding time and expenditure. The Ozone Registration Group will offer LoAs as regulated under the BPR to any external party.   </p>
 						<p>More information and pre-registration for a Letter of Access will be available from January 1st 2014 at www.ozone-registration-group.com. </p>
@@ -282,7 +282,7 @@
 		    <li><a href="uv.php"><img src="images/features/uv.png" alt="Ultraviolet Disinfection" /><span>UV</span></a></li>
 		    <li><a href="aop.php"><img src="images/features/aop.png" alt="Advanced Oxidation Process"/><span>AOP</span></a></li>
 		    <li><a href="app.php"><img src="images/features/applications2.png" alt="Ozone and UV disinfection application" /><span>Applications</span></a></li>
-		    <li><a href="parts.php"><img src="images/features/service.png" alt="Ozonia Customer Care" /><span>Service</span></a></li>
+		    <li><a href="parts.php"><img src="images/features/service.png" alt="ozonia&reg; Customer Care" /><span>Service</span></a></li>
 		</ul>
 
 		<?php include('includes/footer.php') ?>

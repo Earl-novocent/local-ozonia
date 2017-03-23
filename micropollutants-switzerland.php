@@ -5,7 +5,7 @@
 		<?php 
 			include('includes/common-head.php'); 
 		?>		
-		<title>Ozonia | Micropollutants</title>
+		<title>ozonia&reg; | Micropollutants</title>
 		
 		<!-- Adobe Edge animation scripts
 		<script type="text/javascript" src="aop-anim/edge_includes/jquery.easing.1.3.js"></script>
@@ -43,9 +43,9 @@
 						<em>This sewage plant will be the first swiss one complying with the
 							new legislation on the trace compounds treatment.</em>
 					</p>
-					<p>The wastewater treatment plant Neugut in D&uuml;bendorf (Z&uuml;rich) was one of the first swiss pilot plants for micropollutant elimination. The municipality was convinced during the tests by the results of ozone in comparison to activated carbon. They decided to choose Ozonia as the supplier for the full-scale plant that will be build for spring 2013, however the company was not involved in the pilot tests.</p>
-					<p>The chosen solution will include a CFV generator, providing ozone to treat up to 1455 m3/h of waste-water. Ozonia will also offer a turnkey device, including vent diffusors, ozone destructors and all the needfull equipment. With this innovative and forward-looking building willing to protect the receiving environment, a key cleaning-compound will be added to the Water Treatment Plant Neugut.</p>
-					<p>This sewage plant combining ease of use, reliability and environmental protection, will be a foundation stone for all the future projects in Switzerland, and Ozonia is proud to be part of this revolution.</p>
+					<p>The wastewater treatment plant Neugut in D&uuml;bendorf (Z&uuml;rich) was one of the first swiss pilot plants for micropollutant elimination. The municipality was convinced during the tests by the results of ozone in comparison to activated carbon. They decided to choose ozonia&reg; as the supplier for the full-scale plant that will be build for spring 2013, however the company was not involved in the pilot tests.</p>
+					<p>The chosen solution will include a CFV generator, providing ozone to treat up to 1455 m3/h of waste-water. ozonia&reg; will also offer a turnkey device, including vent diffusors, ozone destructors and all the needfull equipment. With this innovative and forward-looking building willing to protect the receiving environment, a key cleaning-compound will be added to the Water Treatment Plant Neugut.</p>
+					<p>This sewage plant combining ease of use, reliability and environmental protection, will be a foundation stone for all the future projects in Switzerland, and ozonia&reg; is proud to be part of this revolution.</p>
 				</div>
 				<div class="right">
 				</div>

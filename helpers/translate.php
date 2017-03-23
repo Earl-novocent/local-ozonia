@@ -60,9 +60,9 @@ echo "Done!";
 			</translation>
 			
 Membrel Out of Date:
-Originally developed in the early 1980's MEMBREL<sup>®</sup> MKIV is Ozonia's latest generation of electrolytic ozone generators which uses solid polymer electrolyte and state-of-the-art electronics for ozone production.
+Originally developed in the early 1980's MEMBREL<sup>®</sup> MKIV is ozonia&reg;'s latest generation of electrolytic ozone generators which uses solid polymer electrolyte and state-of-the-art electronics for ozone production.
 
-Originally developed in the early 1980's MEMBREL<sup>®</sup> MkIV is Ozonia's latest generation of electrolytic ozone generators which uses solid polymer electrolyte with a brand new GFRP cell body, and state-of-the-art electronics for ozone production.
+Originally developed in the early 1980's MEMBREL<sup>®</sup> MkIV is ozonia&reg;'s latest generation of electrolytic ozone generators which uses solid polymer electrolyte with a brand new GFRP cell body, and state-of-the-art electronics for ozone production.
 
 Embeded Hyper-Links: resolved by a push content strategy
 

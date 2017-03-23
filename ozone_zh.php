@@ -6,7 +6,7 @@
 			include('includes/common-head.php');
 			include('includes/common-headcarousel.php');
 		?>
-		<title>Ozonia | Ozone Solutions</title>
+		<title>ozonia&reg; | Ozone Solutions</title>
 
 		<link rel="stylesheet" type="text/css" href="scripts/jquery.lightbox/js/lightbox/themes/default/jquery.lightbox.css" />
 		<!--[if IE 6]>
@@ -82,7 +82,7 @@
 					<div class="cc-block active" id="general">
 						<div class="left">
 							<h3>臭氧</h3>
-							<p>作为全球领先的臭氧消毒技术提供商和设备制造厂商，奥宗尼亚(Ozonia)公司自行研发、设计和制造的系列臭氧发生器采用了最尖端的电子技术。所提供的臭氧发生器应用范围广泛， 涉及世界各地的实验室规模以及最大规模臭氧系统的提供业务。 奥宗尼亚(Ozonia)公司每一臭氧系统均拥有独特的技术特征，采用相应的专利技术以简化安装和最小化维护工作量。</p>
+							<p>作为全球领先的臭氧消毒技术提供商和设备制造厂商，奥宗尼亚(ozonia&reg;)公司自行研发、设计和制造的系列臭氧发生器采用了最尖端的电子技术。所提供的臭氧发生器应用范围广泛， 涉及世界各地的实验室规模以及最大规模臭氧系统的提供业务。 奥宗尼亚(ozonia&reg;)公司每一臭氧系统均拥有独特的技术特征，采用相应的专利技术以简化安装和最小化维护工作量。</p>
 							<p>众所周知，将浓度为0.4mg/l的臭氧在饮用水中保持4分钟即可达到消毒之目的。除此之外，臭氧用于饮用水处理工艺中还可带来其他收获。</p>
 							<ul class="text">
 								<li>预臭氧处理可增强澄清效果，避免有机物转化为卤仿，同时还可促进藻类等微生物的死亡。</li>
@@ -153,7 +153,7 @@
 										<!-- <a target="_blank" href="media/pdf/ozone/OZAT-CFS-screen.pdf"> -->
 										<a target="_blank" href="media/pdf/cn/CFS_CN.pdf">
 										<img src="media/pdf/tn/ozone/OZAT-CFS-screen001.jpg" alt="OZAT-CFS-screen001" width="106" height="150" />
-										<div><span>Ozonia - OZAT<sup>&reg;</sup> CFS</span></div>
+										<div><span>ozonia&reg; - OZAT<sup>&reg;</sup> CFS</span></div>
 										</a>
 									</li>
 								</ul>
@@ -190,7 +190,7 @@
 										<!-- <a target="_blank" href="media/pdf/ozone/OZAT-CFV-screen.pdf"> -->
 										<a target="_blank" href="media/pdf/CFV_CN.pdf">
 										<img src="media/pdf/tn/ozone/OZAT-CFV-screen001.jpg" alt="OZAT-CFV-screen001" width="107" height="149" />
-										<div><span>Ozonia - OZAT<sup>&reg;</sup> CFV</span></div>
+										<div><span>ozonia&reg; - OZAT<sup>&reg;</sup> CFV</span></div>
 										</a>
 									</li>
 								</ul>
@@ -222,7 +222,7 @@
 										<!-- <a target="_blank" href="media/pdf/ozone/XF-VESSELS-screen.pdf"> -->
 										<a target="_blank" href="media/pdf/cn/XF_CN.pdf">
 										<img src="media/pdf/tn/ozone/XF-VESSELS-screen001.jpg" alt="XF-VESSELS-screen001" width="106" height="150" />
-										<div><span>Ozonia - XF&trade;系列</span></div>
+										<div><span>ozonia&reg; - XF&trade;系列</span></div>
 										</a>
 									</li>
 								</ul>
@@ -239,8 +239,8 @@
 						<div class="left">
 							<h3>IGS&trade; Technology</h3>
 							<p>IGS&trade; (Intelligent Gap System 智能间隙系统)专利技术：十年来最具创新性，成本效益和环保革新性的臭氧生成系统</p>
-							<p>奥宗尼亚(Ozonia)公司新型 IGS&trade; (Intelligent Gap System 智能间隙系统)技术是专利臭氧生成工艺，采用革新性的技术和材料，将臭氧生产技术提高至前所未有的新高度。创新型 IGS&trade; (Intelligent Gap System 智能间隙系统)技术按实际需要处理等离子（电晕放电），优化臭氧产生，显著降低能耗。</p>
-							<p>奥宗尼亚(Ozonia)公司新型 IGS&trade; (Intelligent Gap System 智能间隙系统)技术显著降低电耗，降低臭氧制备成本。其良好的经济效益使臭氧的应用面日益扩大。
+							<p>奥宗尼亚(ozonia&reg;)公司新型 IGS&trade; (Intelligent Gap System 智能间隙系统)技术是专利臭氧生成工艺，采用革新性的技术和材料，将臭氧生产技术提高至前所未有的新高度。创新型 IGS&trade; (Intelligent Gap System 智能间隙系统)技术按实际需要处理等离子（电晕放电），优化臭氧产生，显著降低能耗。</p>
+							<p>奥宗尼亚(ozonia&reg;)公司新型 IGS&trade; (Intelligent Gap System 智能间隙系统)技术显著降低电耗，降低臭氧制备成本。其良好的经济效益使臭氧的应用面日益扩大。
 							<ul class="igs-list">
 								<li>稳定连续生产高浓度臭氧（14wt.％）</li>
 								<li>与传统的臭氧发生器相比，降低能耗达30％</li>
@@ -282,7 +282,7 @@
 										<!-- <a target="_blank" href="media/pdf/ozone/MODIPAC-screen.pdf"> -->
 										<a target="_blank" href="media/pdf/cn/MODIPAC_CN.pdf">
 										<img src="media/pdf/tn/ozone/MODIPAC-screen001.jpg" alt="MODIPAC-screen001" width="106" height="150" />
-										<div><span>Ozonia - MODIPAC&trade;</span></div>
+										<div><span>ozonia&reg; - MODIPAC&trade;</span></div>
 										</a>
 									</li>
 								</ul>
@@ -311,7 +311,7 @@
 										<!-- <a target="_blank" href="media/pdf/ozone/LAB2B-screen.pdf"> -->
 										<a target="_blank" href="media/pdf/cn/LAB2B_CN.pdf">
 										<img src="media/pdf/tn/ozone/LAB2B-screen001.jpg" alt="LAB2B-screen001" width="106" height="150" />
-										<div><span>Ozonia - LAB2B</span></div>
+										<div><span>ozonia&reg; - LAB2B</span></div>
 										</a>
 									</li>
 								</ul>
@@ -324,7 +324,7 @@
 							<h3>MEMBREL<sup>&reg;</sup> MkIV</h3>
 
 							<p>用于工业和制药行业超纯水回路的最有效消毒方式</p>
-							<p>Originally developed in the early 1980's MEMBREL<sup>&reg;</sup> MkIV is Ozonia's latest generation of electrolytic ozone generators which uses solid polymer electrolyte with a brand new GFRP cell body, and state-of-the-art electronics for ozone production.</p>
+							<p>Originally developed in the early 1980's MEMBREL<sup>&reg;</sup> MkIV is ozonia&reg;'s latest generation of electrolytic ozone generators which uses solid polymer electrolyte with a brand new GFRP cell body, and state-of-the-art electronics for ozone production.</p>
 							<p>Installation of a MEMBREL<sup>&reg;</sup> MkIV is an effective way of sanitizing a pure water loop. Because the ozone is produced from the water being treated there are no contaminants. The use of chemicals or additional treatment steps is not necessary.</p>
 							<ul>
 								<li>电解式臭氧制备</li>
@@ -347,7 +347,7 @@
 										<!-- <a target="_blank" href="media/pdf/ozone/Brochure-MEMBREL.pdf"> -->
 										<a target="_blank" href="media/pdf/cn/MEMBREL_MKIII_CN.pdf">
 										<img src="media/pdf/tn/ozone/MEMBREL-screen002.jpg" alt="MEMBREL-screen001" width="106" height="150" />
-										<div><span>Ozonia - MEMBREL<sup>&reg;</sup> MkIV</span></div>
+										<div><span>ozonia&reg; - MEMBREL<sup>&reg;</sup> MkIV</span></div>
 										</a>
 									</li>
 								</ul>
@@ -436,14 +436,14 @@
 										<!-- <a target="_blank" href="media/pdf/ozone/OZFIL-screen.pdf"> -->
 										<a target="_blank" href="media/pdf/cn/OZFIL_CN.pdf">
 										<img src="media/pdf/tn/ozone/OZFIL-screen001.jpg" alt="OZFIL Water Treatment Systems" width="106" height="150" />
-										<div><span>Ozonia - OZFIL&trade;</span></div>
+										<div><span>ozonia&reg; - OZFIL&trade;</span></div>
 										</a>
 									</li>
 									<li>
 										<!-- <a target="_blank" href="media/pdf/ozone/OZSKID-screen.pdf"> -->
 										<a target="_blank" href="media/pdf/cn/OZKID_CFS_CN.pdf">
 										<img src="media/pdf/tn/ozone/OZSKID-screen001.jpg" alt="OZSKID Water Treatment Systems" width="106" height="150" />
-										<div><span>Ozonia - OZSKID&trade;</span></div>
+										<div><span>ozonia&reg; - OZSKID&trade;</span></div>
 										</a>
 									</li>
 								</ul>
@@ -475,7 +475,7 @@
 										<!-- <a target="_blank" href="media/pdf/ozone/VOD-SERIES-RB-screen.pdf"> -->
 										<a target="_blank" href="media/pdf/cn/VOD_RB_CN.pdf">
 										<img src="media/pdf/tn/ozone/VOD-SERIES-RB-screen001.jpg" alt="VOB Series RB" width="106" height="150" />
-										<div><span>Ozonia - VOD Series RB</span></div>
+										<div><span>ozonia&reg; - VOD Series RB</span></div>
 										</a>
 									</li>
 								</ul>
@@ -506,7 +506,7 @@
 										<!-- <a target="_blank" href="media/pdf/ozone/ODT-screen.pdf"> -->
 										<a target="_blank" href="media/pdf/cn/ODT_CN.pdf">
 										<img src="media/pdf/tn/ozone/ODT-screen001.jpg" alt="ODT" width="106" height="150" />
-										<div><span>Ozonia - ODT Series</span></div>
+										<div><span>ozonia&reg; - ODT Series</span></div>
 										</a>
 									</li>
 								</ul>
@@ -536,7 +536,7 @@
 										<!-- <a target="_blank" href="media/pdf/ozone/IK-screen.pdf"> -->
 										<a target="_blank" href="media/pdf/cn/IK_CN.pdf">
 										<img src="media/pdf/tn/ozone/IK-screen001.jpg" alt="IK" width="106" height="150" />
-										<div><span>Ozonia - IK Series</span></div>
+										<div><span>ozonia&reg; - IK Series</span></div>
 										</a>
 									</li>
 								</ul>
@@ -570,7 +570,7 @@
 										<!-- <a target="_blank" href="media/pdf/ozone/RADIAL-DIFFUSER-screen.pdf"> -->
 										<a target="_blank" href="media/pdf/cn/RADIAL_diff_CN.pdf">
 										<img src="media/pdf/tn/ozone/RADIAL-DIFFUSER-screen001.jpg" alt="IK" width="106" height="150" />
-										<div><span>Ozonia - Radial Diffuser</span></div>
+										<div><span>ozonia&reg; - Radial Diffuser</span></div>
 										</a>
 									</li>
 								</ul>
@@ -602,7 +602,7 @@
 										<!-- <a target="_blank" href="media/pdf/ozone/DOME-Diffusers-screen.pdf"> -->
 										<a target="_blank" href="media/pdf/cn/DOME_diff_CN.pdf">
 										<img src="media/pdf/tn/ozone/DOME-Diffusers-screen001.jpg" alt="IK" width="106" height="150" />
-										<div><span>Ozonia - Dome Diffuser</span></div>
+										<div><span>ozonia&reg; - Dome Diffuser</span></div>
 										</a>
 									</li>
 								</ul>

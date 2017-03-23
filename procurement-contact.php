@@ -8,7 +8,7 @@
 				$isUSA=TRUE;
 			}
 		 ?>
-		<title>Ozonia | Contact</title>
+		<title>ozonia&reg; | Contact</title>
 		<script type="text/javascript" src="scripts/jquery.validate.min.js"></script>
 		<script type="text/javascript" src="scripts/jquery.validate.additional-methods.js"></script>
 
@@ -166,7 +166,7 @@
 				<!-- <h2>Your are in this country:</h2>	 -->
 				<div class="map-info">
 				    <div id="map-default">
-				    	<h3>Ozonia</h3>
+				    	<h3>ozonia&reg;</h3>
 						<ul>
 							<li>Stettbachstrasse 1</li>
 							<li>8600 Duebendorf Switzerland</li>
@@ -205,7 +205,7 @@
 
 				    </div>
 				    <div id="map-ch">
-				    	<h3>Ozonia China</h3>
+				    	<h3>ozonia&reg; China</h3>
 						<ul>
 							<li>9F, Jing Guang Office Building</li>
 							<li>Hu Jia Lou Chaoyang District</li>

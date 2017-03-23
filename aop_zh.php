@@ -5,7 +5,7 @@
 		<?php
 			include('includes/common-head.php');
 		?>
-		<title>Ozonia | UV Solutions</title>
+		<title>ozonia&reg; | UV Solutions</title>
 
 		<!-- Adobe Edge animation scripts
 		<script type="text/javascript" src="aop-anim/edge_includes/jquery.easing.1.3.js"></script>
@@ -40,7 +40,7 @@
 				<h2 class="section-title">AOP</h2>
 				<div class="left">
 				    <h3>复杂问题需要根本解决方案</h3>
-				    <p>奥宗尼亚(Ozonia)公司研发的最新型AOP系统使用或结合了三种成熟的处理技术（臭氧，紫外线，过氧化氢），产生超强氧化剂羟基自由基， 去除有机污染物。</p>
+				    <p>奥宗尼亚(ozonia&reg;)公司研发的最新型AOP系统使用或结合了三种成熟的处理技术（臭氧，紫外线，过氧化氢），产生超强氧化剂羟基自由基， 去除有机污染物。</p>
 				    <p>AOP是液相氧化方法，包括用于目标污染物氧化破坏的高活性物质。AOP在水中制造更强大和选择性较差的二级氧化剂， 羟基自由基。这一二级氧化剂能引起大多数有机化合物的氧化直至它们完全被矿化为二氧化碳和水。羟自由基与臭氧或过氧化氢相比，具有较高氧化电位，速度至少快100万倍，因此确保较小接触时间与运行成本。</p>
 				    <img src="images/aop-graphic_zh.jpg" alt="AOP process" />
 					<h4 class="appshead">应用市场</h4>

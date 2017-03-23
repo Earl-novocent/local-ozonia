@@ -37,7 +37,7 @@
 						    	    		<li><a href="ozone.php#xf" rel="xf">XF Vessels</a></li>
 						    	    	</ul>
 						    	    </li>
-						    	    <li><a href="#">Ozonia Technologies</a>
+						    	    <li><a href="#">ozonia&reg; Technologies</a>
 						    	    	<ul>
 						    	    		<li><a href="ozone.php#igs" rel="igs">IGS Technology</a></li>
 						    	    		<li><a href="ozone.php#modipac" rel="modipac">Modipac</a></li>

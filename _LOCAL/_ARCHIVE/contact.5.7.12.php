@@ -17,7 +17,7 @@ function convert_email_adr($email) {
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 	<head>
 		<?php include('includes/common-head.php') ?>		
-		<title>Ozonia | Contact</title>
+		<title>ozonia&reg; | Contact</title>
 		<script type="text/javascript" src="scripts/jquery.validate.min.js"></script>
 		<script type="text/javascript" src="scripts/jquery.validate.additional-methods.js"></script>
 	
@@ -167,7 +167,7 @@ function convert_email_adr($email) {
 				<p class="contactnote">Click the icons on the map above to select your nearest location.</p>
 				<div class="map-info">
 				    <div id="map-default">
-				    	<h3>Ozonia International Ozone</h3>				    	
+				    	<h3>ozonia&reg; International Ozone</h3>				    	
 						<ul>
 							<li>Stettbachstrasse 1</li>
 							<li>8600 Duebendorf Switzerland</li>
@@ -178,7 +178,7 @@ function convert_email_adr($email) {
 						<div class="gmap"></div>
 				    </div>
 				    <div id="map-ny">
-				    	<h3>Ozonia North America, LLC</h3>
+				    	<h3>ozonia&reg; North America, LLC</h3>
 						<ul>
 							<li>600 Willow Tree Rd.</li>
 							<li>Leonia, NJ 07605 USA</li>
@@ -190,7 +190,7 @@ function convert_email_adr($email) {
 				    </div>
 
 				    <div id="map-fr">
-				    	<h3>Ozonia France</h3>
+				    	<h3>ozonia&reg; France</h3>
 						<ul>
 							<li>Tour CB21 - 16 Place de l&rsquo;Iris </li>
 							<li>92040 Paris La Defense - France</li>
@@ -201,7 +201,7 @@ function convert_email_adr($email) {
 						<div class="gmap"></div>
 				    </div>
 				    <div id="map-sw">
-				    	<h3>Ozonia Switzerland</h3>
+				    	<h3>ozonia&reg; Switzerland</h3>
 						<ul>
 							<li>Stettbachstrasse 1</li>
 							<li>8600 Duebendorf Switzerland</li>
@@ -212,7 +212,7 @@ function convert_email_adr($email) {
 						<div class="gmap"></div>
 				    </div>
 				    <div id="map-ru">
-				    	<h3>Ozonia Russia</h3>
+				    	<h3>ozonia&reg; Russia</h3>
 						<ul>
 							<li>26, Bolshaya Pecherskaya st., office 807</li>
 							<li>603155 Nizhny Novgorod, Russia</li>
@@ -224,7 +224,7 @@ function convert_email_adr($email) {
 
 				    </div>
 				    <div id="map-ch">
-				    	<h3>Ozonia China</h3>
+				    	<h3>ozonia&reg; China</h3>
 						<ul>
 							<li>9F, Jing Guang Office Building</li>
 							<li>Hu Jia Lou Chaoyang District</li>
@@ -237,7 +237,7 @@ function convert_email_adr($email) {
 											
 				    </div>
 				    <div id="map-kr">
-				    	<h3>Ozonia Korea</h3>
+				    	<h3>ozonia&reg; Korea</h3>
 						<ul>
 							<li>Yatap Leaders B/D 4F(408#)</li>
 							<li>342-1, Yatap-Dong</li>
@@ -250,7 +250,7 @@ function convert_email_adr($email) {
 						<div class="gmap"></div>
 				    </div>
 				    <div id="map-jp">
-				    	<h3>Ozonia Japan</h3>
+				    	<h3>ozonia&reg; Japan</h3>
 						<ul>
 							<li>2-21, Mita 3-chome, Minato-ku</li>
 							<li>Tokyo 108-0073 Japan</li>

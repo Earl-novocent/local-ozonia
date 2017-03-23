@@ -3,7 +3,7 @@
 	<head>		
 		<base href="http://www.ozonia.com/" /><!--[if lte IE 6]></base><![endif]--> <!-- required for URL rewrite -->
 		<?php include('includes/common-head.php'); ?>		
-		<title>Ozonia | Parts and Services</title>
+		<title>ozonia&reg; | Parts and Services</title>
 		<script type="text/javascript" src="scripts/ozonia_custom.js"></script>
 		<link rel="stylesheet" type="text/css" href="scripts/jquery.lightbox/js/lightbox/themes/default/jquery.lightbox.css" />
 		<!--[if IE 6]>

@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 	<head>
 		<?php include('includes/common-head.php'); ?>
-		<title>Ozonia | Parts and Services</title>
+		<title>ozonia&reg; | Parts and Services</title>
 		<script type="text/javascript" src="scripts/ozonia_custom.js"></script>
 		<link rel="stylesheet" type="text/css" href="scripts/jquery.lightbox/js/lightbox/themes/default/jquery.lightbox.css" />
 		<!--[if IE 6]>
@@ -44,7 +44,7 @@
 				<h2 class="section-title">Services</h2>
 				<div class="left">
 					<h4>360° Customer Care Services</h4>
-					<p>Ozonia offers a broad range of customer care services and support, which ensure top quality standards and fast problem resolution.</p>
+					<p>ozonia&reg; offers a broad range of customer care services and support, which ensure top quality standards and fast problem resolution.</p>
 					<p>Our expertly trained teams provide customer service, repairs and maintenance, training, and know-how transfer, offering real added value to suppliers and customers alike.</p>
 					<h4>Benefits:</h4>
 					<ul>

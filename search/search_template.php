@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 	<head>
 		<?php include('includes/common-head.php'); ?>		
-		<title>Ozonia | Search</title>
+		<title>ozonia&reg; | Search</title>
 		<style type="text/css">
 			.highlight { background: #FFFF40; }
 			.searchheading { font-size: 130%; font-weight: bold; margin: 15px 0; }

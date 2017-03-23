@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 	<head>
 		<?php include('includes/common-head.php'); ?>
-		<title>Ozonia | Events</title>
+		<title>ozonia&reg; | Events</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
 		<link rel="stylesheet" type="text/css" href="scripts/jquery.lightbox/js/lightbox/themes/default/jquery.lightbox.css" />
