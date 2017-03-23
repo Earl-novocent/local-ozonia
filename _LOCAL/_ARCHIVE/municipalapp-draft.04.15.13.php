@@ -307,7 +307,7 @@ include('includes/geolocate.php');
 			<p>The “Neugut” water treatment plant in D&uuml;bendorf (Z&uuml;rich) was one of the first Swiss pilot plants for micropollutant elimination.</p>
 			<p>After reviewing the results, the municipality choose ozonia&reg; to supply the full-scale plant that will be build for spring 2013. This sewage plant will be the first to comply with the new Swiss regulation on trace compounds treatment.</p>
 			<p>The Neugut facilities will be designed to treat up to 1’455 m3/h, and will be supplied by ozonia&reg; as a turnkey treatment stage. The system will include ozone generation, dome diffusion, vent ozonedestruction and instrumentation. With this innovative and forward looking building willing to protect the receiving environment, a key cleaning-compound will be added to the “Neugut” Water Treatment Plant.</p>
-			<p>The city of D&uuml;bendorf awarded the Neugut project to OZONIA basedon the extensive know-how, experience and reliability that ozonia&reg; is known for around the world. The Neugut sewage plant will be used as a foundation for future projects in Switzerland.</p>
+			<p>The city of D&uuml;bendorf awarded the Neugut project to ozonia&reg; basedon the extensive know-how, experience and reliability that ozonia&reg; is known for around the world. The Neugut sewage plant will be used as a foundation for future projects in Switzerland.</p>
 			
 			<img src="images/micro-swiss1.jpg" alt="micro-swiss1" width="120" height="87"/>
 			<img src="images/micro-swiss2.jpg" alt="micro-swiss2" width="120" height="87"/>

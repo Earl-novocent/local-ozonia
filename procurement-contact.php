@@ -176,7 +176,7 @@
 						</ul>
 						<br />
 						<h3>General Conditions of Purchase</h3>
-						<p>The following general conditions of purchase apply to purchase orders placed by OZONIA, CH-8600 Duebendorf, for the supply of goods and/or services:</p>
+						<p>The following general conditions of purchase apply to purchase orders placed by ozonia&reg;, CH-8600 Duebendorf, for the supply of goods and/or services:</p>
 						<br />
 						<!-- <p>
 							<a taget="_blank" href="media/pdf/general/General_Conditions_of_Purchase_V12.2014.pdf"><img src="images/pdf-document.png" height="16" width="16" alt="" /></a>
@@ -193,7 +193,7 @@
 
 
 						<br />
-						<p>The following general conditions of purchase apply to purchase orders placed by OZONIA NORTH AMERICA, for the supply of goods and/or services: </p>
+						<p>The following general conditions of purchase apply to purchase orders placed by ozonia&reg; NORTH AMERICA, for the supply of goods and/or services: </p>
 						<br />
 						<p>
 							<!-- <a target="_blank" href="media/pdf/general/purchasing_terms_and_conditions.pdf"><img src="images/pdf-document.png" height="16" width="16" alt="" /></a>

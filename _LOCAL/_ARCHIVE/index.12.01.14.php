@@ -158,15 +158,15 @@
 								<a href="#" id="biocide-modal" class="ozoniaButton left">Learn More</a>
 							</li>
 							<li class="slide">
-								<h2>DISCOVER THE OZONIA HISTORY BOOK</h2>
+								<h2>DISCOVER THE ozonia&reg; HISTORY BOOK</h2>
 								<img src="images/ozonia-book.jpg" alt="ozonia&reg; History" class="right" width="250" style="margin:0;"/>
 								<p>Being a worldwide leader in ozone and UV water treatment doesn't come from one day to another.</p>
-								<p>Learn more about OZONIA's roots by reading our history book.</p>
+								<p>Learn more about ozonia&reg;'s roots by reading our history book.</p>
 								<a href="about.php" class="ozoniaButton left">Learn More</a>
 							</li>
 
 							<li class="slide">
-								<h2 style="font-size:20px;">OZONIA Introduces the Aquaray H<span class="lower">i</span>CAP&trade; </h2>
+								<h2 style="font-size:20px;">ozonia&reg; Introduces the Aquaray H<span class="lower">i</span>CAP&trade; </h2>
 								<img src="images/slides/hicap.jpg" alt="Aquaray HiCAP" class="right" width="98" style="margin:0px 25px 0 0;"/>
 								<p> <strong><em>The Next Generation Vertical UV System </em></strong></p>
 								<!-- <ul> -->
@@ -196,9 +196,9 @@
 -->
 
 							<li class="slide">
-								<h2>OZONIA celebrates the launch of its new website in Chinese</h2>
+								<h2>ozonia&reg; celebrates the launch of its new website in Chinese</h2>
 								<img src="images/slides/zh-welcome.png" alt="Chinese Welcome" class="right" width="250"/>
-								<p><strong><em>OZONIA enlarges its digital footprint with the creation of the Chinese version of OZONIA.com</em></strong></p>
+								<p><strong><em>ozonia&reg; enlarges its digital footprint with the creation of the Chinese version of ozonia&reg;.com</em></strong></p>
 								<a href="zh" class="ozoniaButton left viewLang">View in Chinese <br />现在查看</a>
 							</li>
 

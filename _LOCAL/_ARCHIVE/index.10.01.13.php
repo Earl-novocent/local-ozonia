@@ -143,9 +143,9 @@
 							-->
 
 							<li class="slide">
-								<h2>OZONIA celebrates the launch of its new website in Chinese</h2>
+								<h2>ozonia&reg; celebrates the launch of its new website in Chinese</h2>
 								<img src="images/slides/zh-welcome.png" alt="Chinese Welcome" class="right" width="250"/>
-								<p><strong><em>OZONIA enlarges its digital footprint with the creation of the Chinese version of OZONIA.com</em></strong></p>
+								<p><strong><em>ozonia&reg; enlarges its digital footprint with the creation of the Chinese version of ozonia&reg;.com</em></strong></p>
 								<a href="zh" class="ozoniaButton left viewLang">View in Chinese <br />现在查看</a>
 							</li>
 

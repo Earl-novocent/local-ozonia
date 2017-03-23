@@ -238,7 +238,7 @@
 						</div>
 							<div class="right">
 								<h4>Product sheet:</h4>
-								<li><a href="media/pdf/MODIPAC-OZONIA-UE.pdf.pdf">ozonia&reg; - MODIPAC&trade; (English) PDF - 1.7 Mb</a></li>
+								<li><a href="media/pdf/MODIPAC-ozonia&reg;-UE.pdf.pdf">ozonia&reg; - MODIPAC&trade; (English) PDF - 1.7 Mb</a></li>
 								<li><a href="media/pdf/MODIPAC_A4_EU-F.pdf">ozonia&reg; - MODIPAC&trade; (Fran&ccedil;ais) PDF - 1.5 Mb</a></li>
 							</div>	
 					</div><!-- end cc block -->			
@@ -265,8 +265,8 @@
 							<div class="right">
 								<h4>Product Range:</h4>
 								<ul>
-									<li><a href="media/pdf/MEMBREL_MkIII-OZONIA-EU.pdf">ozonia&reg; - MEMBREL&reg; MkIII (A4-English) PDF - 1 Mb</a></li>
-									<li><a href="media/pdf/MEMBREL_MkIII-OZONIA-US.pdf">ozonia&reg; - MEMBREL&reg; MkIII (US-English) PDF - 1 Mb</a></li>
+									<li><a href="media/pdf/MEMBREL_MkIII-ozonia&reg;-EU.pdf">ozonia&reg; - MEMBREL&reg; MkIII (A4-English) PDF - 1 Mb</a></li>
+									<li><a href="media/pdf/MEMBREL_MkIII-ozonia&reg;-US.pdf">ozonia&reg; - MEMBREL&reg; MkIII (US-English) PDF - 1 Mb</a></li>
 									<li><a href="media/pdf/MEMBREL_A4_EU-F.pdf">ozonia&reg; - MEMBREL&reg; MkIII (A4-Fran&ccedil;ais) PDF - 985.4 kb</a></li>
 								</ul>
 								
@@ -333,8 +333,8 @@
 							<div class="right">
 								<h4>Product Range</h4> 
 								<ul>
-									<li><a href="media/pdf/OZFIL-OZONIA-UE.pdf">ozonia&reg; - OZFIL&trade; (EU) PDF - 1 Mb</a></li>
-									<li><a href="media/pdf/OZFIL-OZONIA-US.pdf">ozonia&reg; - OZFIL&trade; (US) PDF - 296.5 kb</a></li>
+									<li><a href="media/pdf/OZFIL-ozonia&reg;-UE.pdf">ozonia&reg; - OZFIL&trade; (EU) PDF - 1 Mb</a></li>
+									<li><a href="media/pdf/OZFIL-ozonia&reg;-US.pdf">ozonia&reg; - OZFIL&trade; (US) PDF - 296.5 kb</a></li>
 								</ul>
 								
 								<h4>Applications</h4>

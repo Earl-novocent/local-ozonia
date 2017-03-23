@@ -61,8 +61,8 @@
 					<h4>更多阅读</h4>
 					<ul class="literature">
 					    <li>
-					    	<a target="_blank" href="media/pdf/OZONIA-Services-US.pdf">
-					    	<img src="media/pdf/tn/OZONIA-Services-US-1.jpg" alt="OZONIA-Services-US-1" width="106" height="150" />
+					    	<a target="_blank" href="media/pdf/ozonia&reg;-Services-US.pdf">
+					    	<img src="media/pdf/tn/ozonia&reg;-Services-US-1.jpg" alt="ozonia&reg;-Services-US-1" width="106" height="150" />
 					    	<div><span>Parts and Service</span></div>
 					    	</a>
 					    </li>

@@ -69,7 +69,7 @@
 					<ul class="literature">
 					    <li>
 					    	<a target="_blank" href="media/pdf/services/360 Brochure_English_vertical.pdf">
-					    	<img src="media/pdf/tn/services/OZONIA-Services-US-1.jpg" alt="OZONIA-Services-US-1" width="106" height="150" />
+					    	<img src="media/pdf/tn/services/ozonia&reg;-Services-US-1.jpg" alt="ozonia&reg;-Services-US-1" width="106" height="150" />
 					    	<div><span>Parts and Service</span></div>
 					    	</a>
 					    </li>

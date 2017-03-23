@@ -34,7 +34,7 @@
 
 			<div class="hero-inner clearfix">
 				<div class="hero-content" style="overflow:hidden">
-					<h1>OZONIA has more than <br />35 years of
+					<h1>ozonia&reg; has more than <br />35 years of
 						experience <br />in disinfection
 						and oxidation processes</span></h1>
 					<img src="images/hero-about2.jpg" alt="" />
@@ -45,9 +45,9 @@
 			<div class="pagecontent cc-block clearfix">
 				<h2 class="section-title">About ozonia&reg;</h2>
 				<div class="left">
-<p>Although OZONIA was founded in 1990 it has more than 35 years of experience in developing, designing, manufacturing and installing treatment systems due to its ABB Asea Brown Boveri and Degrémont roots back in the 70s. OZONIA is owned by Degrémont which took over the ozone and UV business activities and professionals from ABB. OZONIA’s products are available worldwide through 9 affiliates located in Zurich (Headquarters, Switzerland), New York (USA), Glasgow (Scotland) , Paris (France), Nizhny Novgorod (Russia), Beijing and Tianjin (China), Seoul (Korea) and Tokyo (Japan). In addition to these wholly owned affiliates OZONIA has a network of Resellers and Original Equipment Manufacturers all over the world.</p>
-<p>OZONIA has developed the most efficient ozone and ultraviolet generating technologies available today, and is ranked as one of the world’s leading suppliers for this type of equipment. OZONIA can draw on extensive knowledge relating to both ozone and ultraviolet application technology and, because of this expertise, has built-up a unique ability to deliver complete systems which ensure economical operation as well as the highest operational and personal safety.</p>
-<p>OZONIA’s aim is to design each plant in close co-operation with the client to suit the application and site conditions. This high level of flexibility is achieved through the implementation of fully engineered standardized equipment in conjunction with a wealth of experience.</p>
+<p>Although ozonia&reg; was founded in 1990 it has more than 35 years of experience in developing, designing, manufacturing and installing treatment systems due to its ABB Asea Brown Boveri and Degrémont roots back in the 70s. ozonia&reg; is owned by Degrémont which took over the ozone and UV business activities and professionals from ABB. ozonia&reg;’s products are available worldwide through 9 affiliates located in Zurich (Headquarters, Switzerland), New York (USA), Glasgow (Scotland) , Paris (France), Nizhny Novgorod (Russia), Beijing and Tianjin (China), Seoul (Korea) and Tokyo (Japan). In addition to these wholly owned affiliates ozonia&reg; has a network of Resellers and Original Equipment Manufacturers all over the world.</p>
+<p>ozonia&reg; has developed the most efficient ozone and ultraviolet generating technologies available today, and is ranked as one of the world’s leading suppliers for this type of equipment. ozonia&reg; can draw on extensive knowledge relating to both ozone and ultraviolet application technology and, because of this expertise, has built-up a unique ability to deliver complete systems which ensure economical operation as well as the highest operational and personal safety.</p>
+<p>ozonia&reg;’s aim is to design each plant in close co-operation with the client to suit the application and site conditions. This high level of flexibility is achieved through the implementation of fully engineered standardized equipment in conjunction with a wealth of experience.</p>
 
           <ul class="ogal clearfix">
             <li><a href="images/office/oag1.jpg" class="lightbox" rel="group1"><img class="inset" src="images/office/oag1t.jpg" alt=""/></a></li>
@@ -61,7 +61,7 @@ Switzerland"><img src="images/office/oag2t.jpg" alt=""/></a></li>
 
 				</div>
 				<div class="right">
-					<h4>OZONIA - What a Story!</h4>
+					<h4>ozonia&reg; - What a Story!</h4>
 					<img src="images/ozonia-book.jpg" height="200" width="300" alt="" />
 					<p><a href="media/flash/ozonia-book.swf" class="ozoniaButton modal">Read the Book Now</a></p>
 					<p style="margin-top:30px;">ozonia&reg; is proud to be OHSAS 18001 and ISO 9001 certified</p>

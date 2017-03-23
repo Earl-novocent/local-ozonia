@@ -34,7 +34,7 @@
 
 			<div class="hero-inner clearfix">
 				<div class="hero-content" style="overflow:hidden">
-					<h1>OZONIA has more than <br />35 years of
+					<h1>ozonia&reg; has more than <br />35 years of
 						experience <br />in disinfection
 						and oxidation processes</span></h1>
 					<img src="images/hero-about2.jpg" alt="" />
