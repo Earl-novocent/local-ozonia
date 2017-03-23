@@ -11,10 +11,10 @@ syndicate.article_content = new Array;
 
 // This section of the script is published by the software
 syndicate.index = 0;
-  syndicate.article_title[ syndicate.index ] = 'ozonia&reg; Expands Installations in China';
+  syndicate.article_title[ syndicate.index ] = 'ozonia<sup>&reg;</sup> Expands Installations in China';
   syndicate.article_url[ syndicate.index ] = 'http://192.168.1.34:8080/weblaunch/article_38.shtml';
   syndicate.article_date[ syndicate.index ] = 'Jul  9, 2004';
-  syndicate.article_summary[ syndicate.index ] = 'Jiaxing,China - ozonia&reg; Ltd. has been selected by the City of Jiaxing for the supply of a 30 kg/h (1,584 lb./day) ozone system as part of an overall upgrade to the Shijiuyang Water Treatment Plant.';
+  syndicate.article_summary[ syndicate.index ] = 'Jiaxing,China - ozonia<sup>&reg;</sup> Ltd. has been selected by the City of Jiaxing for the supply of a 30 kg/h (1,584 lb./day) ozone system as part of an overall upgrade to the Shijiuyang Water Treatment Plant.';
   syndicate.index++;
 
 

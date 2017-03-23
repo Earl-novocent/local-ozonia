@@ -6,7 +6,7 @@
 		include('includes/common-head.php');
 		include('includes/common-headcarousel.php');
 	?>
-		<title>ozonia&reg; | UV Solutions</title>
+		<title>ozonia<sup>&reg;</sup> | UV Solutions</title>
 		<script type="text/javascript" src="scripts/ozonia_custom.js"></script>
 		<script type="text/javascript">
 			$(document).ready(function() {
@@ -69,7 +69,7 @@
 
 							<p>在紫外线光谱中，波长为200 - 280nm,波长254nm的紫外线经证实是破坏核酸(DNA和RNA)灭火微生物的最有效波长。</p>
 							<p>在正常的应用中，紫外线系统的优势在于无需在被处理的水中添加化学制品，不会形成消毒副产物。由于较低的运行成本， 紫外线设备可以很容易地被集成到大部分现有污水处理厂的装置中。</p>
-							<p>奥宗尼亚(ozonia&reg;)公司已研制出一种非常适合用于市政和工业领域应用的AQUARAY<sup>&reg;</sup>系列产品。</p>
+							<p>奥宗尼亚(ozonia<sup>&reg;</sup>)公司已研制出一种非常适合用于市政和工业领域应用的AQUARAY<sup>&reg;</sup>系列产品。</p>
 
 							<p><a class="lightbox ozoniaButton_small" href="media/flash/ARloader.swf?lightbox[width]=850&lightbox[height]=516">Aquaray H<sub>2</sub>O演示动画 &raquo;</a></p>
 
@@ -120,7 +120,7 @@
 								    <li>
 								    	<a target="_blank" href="media/pdf/uv/Aquaray-3X-screen.pdf">
 								    	<img src="media/pdf/tn/uv/Aquaray-3X-screen001.jpg" alt="Aquaray-3X-screen001" width="106" height="150" />
-								    	<div><span>ozonia&reg; - Aquaray<sup>&reg;</sup> 3X</span></div>
+								    	<div><span>ozonia<sup>&reg;</sup> - Aquaray<sup>&reg;</sup> 3X</span></div>
 								    	</a>
 								    </li>
 								</ul>
@@ -149,7 +149,7 @@
 								    <li>
 								    	<a target="_blank" href="media/pdf/uv/Aquaray-40HO-screen.pdf">
 								    	<img src="media/pdf/tn/uv/Aquaray-40HO-screen001.jpg" alt="Aquaray-40HO-screen001" width="106" height="150" />
-								    	<div><span>ozonia&reg; - Aquaray<sup>&reg;</sup> 40 HO</span></div>
+								    	<div><span>ozonia<sup>&reg;</sup> - Aquaray<sup>&reg;</sup> 40 HO</span></div>
 								    	</a>
 								    </li>
 								</ul>
@@ -178,7 +178,7 @@
 								    <li>
 								    	<a target="_blank" href="media/pdf/uv/Aquaray-H2O-screen.pdf">
 								    	<img src="media/pdf/tn/uv/Aquaray-H2O-screen001.jpg" alt="Aquaray-H2O-screen001" width="106" height="150" />
-								    	<div><span>ozonia&reg; - H2O</span></div>
+								    	<div><span>ozonia<sup>&reg;</sup> - H2O</span></div>
 								    	</a>
 								    </li>
 								</ul>
@@ -209,13 +209,13 @@
 									<li>
 										<a target="_blank" href="media/pdf/uv/LP-screen.pdf">
 										<img src="media/pdf/tn/uv/LP-screen001.jpg" alt="LP-screen001" width="106" height="150" />
-										<div><span>ozonia&reg; - Aquaray<sup>&reg;</sup> LP</span></div>
+										<div><span>ozonia<sup>&reg;</sup> - Aquaray<sup>&reg;</sup> LP</span></div>
 										</a>
 									</li>
 									<li>
 										<a target="_blank" href="media/pdf/uv/LPTS-screen.pdf">
 										<img src="media/pdf/tn/uv/LPTS-screen001.jpg" alt="LPTS-screen001" width="106" height="150" />
-										<div><span>ozonia&reg; - Aquaray<sup>&reg;</sup> LPTS</span></div>
+										<div><span>ozonia<sup>&reg;</sup> - Aquaray<sup>&reg;</sup> LPTS</span></div>
 										</a>
 									</li>
 								</ul>
@@ -250,13 +250,13 @@
 									<li>
 										<a target="_blank" href="media/pdf/uv/SLP-DW-PW-screen.pdf">
 										<img src="media/pdf/tn/uv/SLP-DW-PW-screen001.jpg" alt="SLP-DW-PW-screen001" width="106" height="150" />
-										<div><span>ozonia&reg; - Aquaray<sup>&reg;</sup> SLP DW/PW</span></div>
+										<div><span>ozonia<sup>&reg;</sup> - Aquaray<sup>&reg;</sup> SLP DW/PW</span></div>
 										</a>
 									</li>
 									<li>
 										<a target="_blank" href="media/pdf/uv/SLP-WW-screen.pdf">
 										<img src="media/pdf/tn/uv/SLP-WW-screen001.jpg" alt="SLP-WW-screen001" width="106" height="150" />
-										<div><span>ozonia&reg; - Aquaray<sup>&reg;</sup> SLP WW</span></div>
+										<div><span>ozonia<sup>&reg;</sup> - Aquaray<sup>&reg;</sup> SLP WW</span></div>
 										</a>
 									</li>
 								</ul>
@@ -291,13 +291,13 @@
 									<li>
 										<a target="_blank" href="media/pdf/uv/SMP-DW-PW-screen.pdf">
 										<img src="media/pdf/tn/uv/SMP-DW-PW-screen001.jpg" alt="SMP-DW-PW-screen001" width="106" height="150" />
-										<div><span>ozonia&reg; - Aquaray<sup>&reg;</sup> SMP DW/PW</span></div>
+										<div><span>ozonia<sup>&reg;</sup> - Aquaray<sup>&reg;</sup> SMP DW/PW</span></div>
 										</a>
 									</li>
 									<li>
 										<a target="_blank" href="media/pdf/uv/SMP-WW-screen.pdf">
 										<img src="media/pdf/tn/uv/SMP-WW-screen001.jpg" alt="SMP-WW-screen001" width="106" height="150" />
-										<div><span>ozonia&reg; - Aquaray<sup>&reg;</sup> SMP WW</span></div>
+										<div><span>ozonia<sup>&reg;</sup> - Aquaray<sup>&reg;</sup> SMP WW</span></div>
 										</a>
 									</li>
 								</ul>

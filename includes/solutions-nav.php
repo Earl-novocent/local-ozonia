@@ -36,7 +36,7 @@
 						    	    		<li><a href="ozone.php#xf" rel="xf">XF Vessels</a></li>
 						    	    	</ul>
 						    	    </li>
-						    	    <li><a href="#">ozonia&reg; Technologies</a>
+						    	    <li><a href="#">ozonia<sup>&reg;</sup> Technologies</a>
 						    	    	<ul>
 						    	    		<li><a href="ozone.php#igs" rel="igs">IGS Technology</a></li>
 						    	    		<li><a href="ozone.php#modipac" rel="modipac">Modipac</a></li>
@@ -202,7 +202,7 @@
 						    	    		<li><a href="ozone.php#xf" rel="xf">系列</a></li>
 						    	    	</ul>
 						    	    </li>
-						    	    <li><a href="#">ozonia&reg; 技术</a>
+						    	    <li><a href="#">ozonia<sup>&reg;</sup> 技术</a>
 						    	    	<ul>
 						    	    		<li><a href="ozone.php#igs" rel="igs">IGS 技术</a></li>
 						    	    		<li><a href="ozone.php#modipac" rel="modipac">Modipac</a></li>

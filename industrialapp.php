@@ -6,7 +6,7 @@
 			include('includes/common-head.php');
 			include('includes/common-headcarousel.php');
 		?>
-		<title>ozonia&reg; | Process Applications</title>
+		<title>ozonia<sup>&reg;</sup> | Process Applications</title>
 		<style type="text/css">
 			a[href$='.pdf'] {
 				background:transparent url(images/page_white_acrobat.png) center left no-repeat;
@@ -54,7 +54,7 @@
 					<div class="cc-block active" id="general">
 						<div class="left">
 							<h3>Countless Applications in Numerous Markets</h3>
-							<p>Because of its comprehensive portfolio, ozonia&reg; can offer a wide range of solutions for industrial applications. ozonia&reg;'s products have been designed so that they can be integrated into all types of treatment steps with the minimum amount of work and time. Equipment technologies include a large spectrum of UV reactors and ozone generators. Depending on the application in question, ozonia&reg; can supply either a single technology or adopt a multi-process approach to achieve the desired result.</p>
+							<p>Because of its comprehensive portfolio, ozonia<sup>&reg;</sup> can offer a wide range of solutions for industrial applications. ozonia<sup>&reg;</sup>'s products have been designed so that they can be integrated into all types of treatment steps with the minimum amount of work and time. Equipment technologies include a large spectrum of UV reactors and ozone generators. Depending on the application in question, ozonia<sup>&reg;</sup> can supply either a single technology or adopt a multi-process approach to achieve the desired result.</p>
 						</div>
 						<div class="right">
 							<h4>Industrial Applications</h4>
@@ -83,7 +83,7 @@
 							<h3>Aquaculture</h3>
 							<h4>(Fish Farming and Hatcheries)</h4>
 							<p>Ozone and/or Ultra Violet (UV) disinfection can play important roles in the prevention and elimination of fish diseases in aquaculture systems. Ozone, a powerful oxidizing agent disinfects and oxidizes organic pollutants while increasing the water's dissolved oxygen level. The end result is exceptional water quality, which is a fundamental requirement for intensive fish farming.</p>
-							<p>UV light systems economically disinfect make-up water in both fresh and saltwater farms without additional chemicals or bromate formation. Both ozone and UV systems are easy to adapt to large scale ponds and raceways as well as small holding tanks and nurseries. Improved water quality leads to reduced mortality rates and an increased yield of a healthier product. Other benefits include a reduction of chemical additives for water treatment or vaccines and antibiotics. ozonia&reg; has extensive experience in the aquaculture industry with numerous hatchery and fish farming installations worldwide.</p>
+							<p>UV light systems economically disinfect make-up water in both fresh and saltwater farms without additional chemicals or bromate formation. Both ozone and UV systems are easy to adapt to large scale ponds and raceways as well as small holding tanks and nurseries. Improved water quality leads to reduced mortality rates and an increased yield of a healthier product. Other benefits include a reduction of chemical additives for water treatment or vaccines and antibiotics. ozonia<sup>&reg;</sup> has extensive experience in the aquaculture industry with numerous hatchery and fish farming installations worldwide.</p>
 						</div>
 						<div class="right">
 							<h4>Associated Products</h4>
@@ -145,7 +145,7 @@
 							<p>In recent years there has been an increased focus on food safety and in particular the methods used to reduce and eliminate pathogens from fresh produce. With the rise in consumption of fresh fruits and vegetables, incidents of foodborne illness have also greatly increased in the US, drawing significant attention from researchers and authorities. </p>
 							<p>Traditional methods revolve around the use of chemicals such as chlorine in the sanitizing of produce, specifically in rinsing and washing. Chlorine is widely used in these processes but it has a limited effect in killing bacteria on fruit and vegetables surfaces. There is also wide concern with regards to the by-products of chlorine and its effects on health and the environment. </p>
 							<p>Ozone is becoming a popular alternative solution to traditional sanitizing agents and providing additional benefits. Ozone is an oxidizing agent, 1.5 times more powerful than chlorine and effective over a much wider spectrum of microorganisms. Ozone kills viruses and bacteria such as Escherichia coli and Listeria much faster than chlorine and other chemical agents and is free of chemical residues as it decomposes into simple oxygen. </p>
-							<p>To simplify the integration of ozone into an existing or future process, ozonia&reg; has developed a broad range of pre-engineered and pre-fabricated injection skids to fit nearly every application. </p>
+							<p>To simplify the integration of ozone into an existing or future process, ozonia<sup>&reg;</sup> has developed a broad range of pre-engineered and pre-fabricated injection skids to fit nearly every application. </p>
 							<p>There are many different applications in the food industry for ozone. Here are a few: </p>
 							<ul>
 								<li>Disinfection of Process Water</li>
@@ -207,8 +207,8 @@
 					<div class="cc-block" id="ultrapure">
 						<div class="left">
 							<h3>Ultrapure Water</h3>
-							<p>Ozone and UV are the most widely accepted and recognized methods for disinfection of ultra-pure water (UPW). Most commonly used in the pharmaceutical, semiconductor, cosmetics and beverage industries, UPW systems treated with ozonia&reg; ozone and UV systems routinely achieve microbial counts below 1 cfu / 100 ml. Ozone has proven itself the most reliable technique for clean-in-place (CIP) applications where minimum down-time to remove bio-burden is required.</p>
-							<p>With several hundred ozone and UV installations installed and operating on UPW systems, ozonia&reg; is the recognized world leader for ultra-pure water sanitization. ozonia&reg; MEMBREL<sup>&reg;</sup> Electrolytic Ozone Systems disinfect in-situ offering the added benefits of simplicity to a complicated process. In combination with ozonia&reg; Medium Pressure UV, ozone removal, TOC reduction and product safety are assured.</p>
+							<p>Ozone and UV are the most widely accepted and recognized methods for disinfection of ultra-pure water (UPW). Most commonly used in the pharmaceutical, semiconductor, cosmetics and beverage industries, UPW systems treated with ozonia<sup>&reg;</sup> ozone and UV systems routinely achieve microbial counts below 1 cfu / 100 ml. Ozone has proven itself the most reliable technique for clean-in-place (CIP) applications where minimum down-time to remove bio-burden is required.</p>
+							<p>With several hundred ozone and UV installations installed and operating on UPW systems, ozonia<sup>&reg;</sup> is the recognized world leader for ultra-pure water sanitization. ozonia<sup>&reg;</sup> MEMBREL<sup>&reg;</sup> Electrolytic Ozone Systems disinfect in-situ offering the added benefits of simplicity to a complicated process. In combination with ozonia<sup>&reg;</sup> Medium Pressure UV, ozone removal, TOC reduction and product safety are assured.</p>
 						</div>
 						<div class="right">
 							<h4>Associated Products</h4>
@@ -227,7 +227,7 @@
 						<div class="left">
 							<h3>Aquariums (Zoos)</h3>
 							<p>Large municipal aquariums and zoos disinfect water with ozone to protect the different species in their care from infection due to water borne virus and disease. Because ozone is easy to control without a long-lasting residual, the animals are also protected from irritation around sensitive areas often associated with chemical disinfectants. Large aquariums also use ozone to improve the water clarity for maximum impact on the viewing public.</p>
-							<p>ozonia&reg; has designed and supplied systems to treat water flow rates from as little as 6 gallons per minute (1.3 m<sup>3</sup>/h) to entire municipal aquariums with an assortment of fish, mammals and reptiles. Let us show you how our ozone or UV products can economically improve the water quality at your exhibits and features.</p>
+							<p>ozonia<sup>&reg;</sup> has designed and supplied systems to treat water flow rates from as little as 6 gallons per minute (1.3 m<sup>3</sup>/h) to entire municipal aquariums with an assortment of fish, mammals and reptiles. Let us show you how our ozone or UV products can economically improve the water quality at your exhibits and features.</p>
 						</div>
 						<div class="right">
 							<h4>Associated Products</h4>
@@ -244,7 +244,7 @@
 						<div class="left">
 							<h3>Color Removal</h3>
 							<p>Color due to organic molecules or products break down quickly when they come into contact with ozone. The powerful oxidation potential of ozone has made color removal one of the "classic" ozone applications for drinking water along with taste and odor removal which are also organic based. This need has crossed over to wastewater treatment (industrial and municipal) and today ozone is used extensively to remove color from effluents from dye manufacturers, textile mills, pharmaceutical factories and other industrial companies.</p>
-							<p>Ozone is also used extensively as a "bleach" in many processes such pulp and paper manufacturing, kaolin production and even textiles (stone washed denim). ozonia&reg; has a broad range of products from laboratory scale ozonators to large engineered ozone plants to satisfy any possible color removal need.</p>
+							<p>Ozone is also used extensively as a "bleach" in many processes such pulp and paper manufacturing, kaolin production and even textiles (stone washed denim). ozonia<sup>&reg;</sup> has a broad range of products from laboratory scale ozonators to large engineered ozone plants to satisfy any possible color removal need.</p>
 						</div>
 						<div class="right">
 							<h4>Associated Products</h4>

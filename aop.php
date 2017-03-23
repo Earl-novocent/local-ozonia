@@ -5,7 +5,7 @@
 		<?php
 			include('includes/common-head.php');
 		?>
-		<title>ozonia&reg; | AOP Solutions</title>
+		<title>ozonia<sup>&reg;</sup> | AOP Solutions</title>
 
 		<!-- Adobe Edge animation scripts
 		<script type="text/javascript" src="aop-anim/edge_includes/jquery.easing.1.3.js"></script>
@@ -40,7 +40,7 @@
 				<h2 class="section-title">AOP</h2>
 				<div class="left">
 				    <h3>Complex Problems Require Radical Solutions</h3>
-				    <p>State-of-the-art AOP systems developed by ozonia&reg; use or combine three proven treatment technologies (Ozone, UV, Hydrogen Peroxide) to create hydroxyl radicals, the ultimate oxidant for elimination of organic pollutants.</p>
+				    <p>State-of-the-art AOP systems developed by ozonia<sup>&reg;</sup> use or combine three proven treatment technologies (Ozone, UV, Hydrogen Peroxide) to create hydroxyl radicals, the ultimate oxidant for elimination of organic pollutants.</p>
 				    <p>AOP are aqueous phase oxidation methods consisting of highly reactive species used in the oxidative destruction of target pollutants. AOP creates a more powerful and less selective secondary oxidant, hydroxyl radicals, in the water. This secondary oxidant can cause the oxidation of most organic compounds until they are fully mineralized as carbon dioxide and water. The hydroxyl radical has a much higher oxidation potential than ozone or hydrogen peroxide and usually reacts at least one million times faster, thus leading to a smaller contact time and footprint.</p>
 				    <img src="images/aop-graphic.jpg" alt="AOP process" />
 					<h4 class="appshead">Applications by Market</h4>

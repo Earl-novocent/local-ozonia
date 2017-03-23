@@ -10,7 +10,7 @@ include('includes/geolocate.php');
 			include('includes/common-head.php'); 
 			include('includes/common-headcarousel.php'); 
 		?>		
-		<title>ozonia&reg; | Process Applications</title>	
+		<title>ozonia<sup>&reg;</sup> | Process Applications</title>	
 		
 
 		<!--[if IE 6]>
@@ -115,7 +115,7 @@ include('includes/geolocate.php');
 					<div class="cc-block active" id="general">
 						<div class="left">
 							<h3>Countless Applications in Numerous Markets</h3>
-							<p>Because of its comprehensive portfolio, ozonia&reg; can offer a wide range of solutions for municipal applications. ozonia&reg;'s products have been designed so that they can be integrated into all types of treatment steps with the minimum amount of work and time. Equipment technologies include a large spectrum of UV reactors and ozone generators. Depending on the application in question, ozonia&reg; can supply either a single technology or adopt a multi-process approach to achieve the desired result.
+							<p>Because of its comprehensive portfolio, ozonia<sup>&reg;</sup> can offer a wide range of solutions for municipal applications. ozonia<sup>&reg;</sup>'s products have been designed so that they can be integrated into all types of treatment steps with the minimum amount of work and time. Equipment technologies include a large spectrum of UV reactors and ozone generators. Depending on the application in question, ozonia<sup>&reg;</sup> can supply either a single technology or adopt a multi-process approach to achieve the desired result.
 </p>
 						</div>
 						<div class="right">
@@ -140,7 +140,7 @@ include('includes/geolocate.php');
 						<div class="left">
 							<h3>Disinfection</h3>
 							<p>Both Ozone and UV are well recognized methods for water and wastewater disinfection in the industrial and municipal markets. Each can be used for the inactivation of viruses, giardia, cryptospordium, bacteria and other microbial contaminants.</p>
-							<p>UV is a proven cost effective disinfection alternative for water and wastewater, as well as numerous industrial applications. ozonia&reg; offers several UV products for water and wastewater treatment which are fully bioassay validated with independent third party certification per recognized regulatory guidelines.</p>
+							<p>UV is a proven cost effective disinfection alternative for water and wastewater, as well as numerous industrial applications. ozonia<sup>&reg;</sup> offers several UV products for water and wastewater treatment which are fully bioassay validated with independent third party certification per recognized regulatory guidelines.</p>
 							<p>In addition to disinfection, ozone is also an effective treatment for taste, odor and color removal, iron and manganese reduction, as well as being a flocculating agent.</p>
 							<p>Ozone and/or UV are effective and environmentally friendly alternatives to chlorine and chlorine derivatives for water and wastewater disinfection.</p>
 						</div>
@@ -177,7 +177,7 @@ include('includes/geolocate.php');
 						<div class="left">
 							<h3>Color Removal</h3>
 							<p>Color due to organic molecules or products break down quickly when they come into contact with ozone. The powerful oxidation potential of ozone has made color removal one of the "classic" ozone applications for drinking water along with taste and odor removal which are also organic based. This need has crossed over to wastewater treatment (industrial and municipal) and today ozone is used extensively to remove color from effluents from dye manufacturers, textile mills, pharmaceutical factories and other industrial companies.</p>
-							<p>Ozone is also used extensively as a "bleach" in many processes such pulp and paper manufacturing, kaolin production and even textiles (stone washed denim). ozonia&reg; has a broad range of products from laboratory scale ozonators to large engineered ozone plants to satisfy any possible color removal need.</p>
+							<p>Ozone is also used extensively as a "bleach" in many processes such pulp and paper manufacturing, kaolin production and even textiles (stone washed denim). ozonia<sup>&reg;</sup> has a broad range of products from laboratory scale ozonators to large engineered ozone plants to satisfy any possible color removal need.</p>
 						</div>
 						<div class="right">
 							<h4>Associated Products</h4>
@@ -230,7 +230,7 @@ include('includes/geolocate.php');
 						<div class="left">
 							<h3>Wastewater</h3>
 							<p>Effluent wastewater from an industrial facility may carry a broad and variable range of contaminants, including BOD, COD, color, phenols, cyanides, sanitary waste and a host of complex chemicals. Ozone, in combination with UV and/or other physical, chemical or biological processes, has the potential to treat complex industrial wastes due to its strong oxidative nature. In combination with medium pressure UV, ozone exhibits the power of advanced oxidation for TOC reduction, as well as destruction of organics. Potential industries that can benefit from ozone and UV include  pharmaceuticals, textiles, automotive, foundry, etc.</p>
-							<p>In arid areas, due to water scarcity, treated wastewater can be used for a reuse application such as land or golf irrigation. Water recycling avoids water shortages and protects water resources. Water recycling is safe, environmentally sustainable and cost-effective for decision-makers who care about environmental resources. For operating cost reduction, municipalities and industry are smart to invest in reuse installations to reduce their fresh water consumption. ozonia&reg; and Aquasource can implement different solutions to contribute to integrated water management.</p>
+							<p>In arid areas, due to water scarcity, treated wastewater can be used for a reuse application such as land or golf irrigation. Water recycling avoids water shortages and protects water resources. Water recycling is safe, environmentally sustainable and cost-effective for decision-makers who care about environmental resources. For operating cost reduction, municipalities and industry are smart to invest in reuse installations to reduce their fresh water consumption. ozonia<sup>&reg;</sup> and Aquasource can implement different solutions to contribute to integrated water management.</p>
 						</div>
 						<div class="right">
 							<h4>Associated Products</h4>
@@ -253,11 +253,11 @@ include('includes/geolocate.php');
 					<div class="cc-block" id="micropollutants">
 						<div class="left">
 							<h3>Micropollutants</h3>							
-							<p>Urban waste waters are increasingly contaminated with organic substances such as biocides, endocrine disruptor compounds (EDCs), personal care products (PCPs) and pharmaceutical substances. These contaminants, with their known or potential harmfulness for aquatic ecosystems and human health, have become a major issue for the Water Utilities. Indeed, the actual facilities struggle to eliminate those pollutions, additional treatment processes will therefore be required. Thus, ozonia&reg; developed a large and safe range of application to answer this emergent question.</p>					
+							<p>Urban waste waters are increasingly contaminated with organic substances such as biocides, endocrine disruptor compounds (EDCs), personal care products (PCPs) and pharmaceutical substances. These contaminants, with their known or potential harmfulness for aquatic ecosystems and human health, have become a major issue for the Water Utilities. Indeed, the actual facilities struggle to eliminate those pollutions, additional treatment processes will therefore be required. Thus, ozonia<sup>&reg;</sup> developed a large and safe range of application to answer this emergent question.</p>					
 							
-							<p>Drawing on its long experience in the field of municipal waste water treatment using oxidation technologies, ozonia&reg; can offer the most powerful solution available to water process engineers for the elimination of micropollutants in urban waste water. ozonia&reg; became a world leader on that topic thanks to years of research and piloting in support of its parent company, Suez Environnement.</p>
+							<p>Drawing on its long experience in the field of municipal waste water treatment using oxidation technologies, ozonia<sup>&reg;</sup> can offer the most powerful solution available to water process engineers for the elimination of micropollutants in urban waste water. ozonia<sup>&reg;</sup> became a world leader on that topic thanks to years of research and piloting in support of its parent company, Suez Environnement.</p>
 							
-							<p>Ozone-based treatments demonstrated their effectiveness in all conditions to remove the trace compounds, and provide with them welcome side-effects. Indeed ozonation presents economical and energetical benefits compared to all the others treatment solutions, in addition to consequent water quality improvement. ozonia&reg; has grown in years a know-how allowing to ensure those benefits, thanks to it’s state of the art and unique patended technology.</p>							
+							<p>Ozone-based treatments demonstrated their effectiveness in all conditions to remove the trace compounds, and provide with them welcome side-effects. Indeed ozonation presents economical and energetical benefits compared to all the others treatment solutions, in addition to consequent water quality improvement. ozonia<sup>&reg;</sup> has grown in years a know-how allowing to ensure those benefits, thanks to it’s state of the art and unique patended technology.</p>							
 							
 							<h4>References</h4>
 							<a class="ozoniaButton_small modalLink" href="#swiss">Dübendorf</a>
@@ -305,9 +305,9 @@ include('includes/geolocate.php');
 		<div class="left">
 			<h3>WWTP Neugut - D&uuml;bendorf, Switzerland</h3>
 			<p>The “Neugut” water treatment plant in D&uuml;bendorf (Z&uuml;rich) was one of the first Swiss pilot plants for micropollutant elimination.</p>
-			<p>After reviewing the results, the municipality choose ozonia&reg; to supply the full-scale plant that will be build for spring 2013. This sewage plant will be the first to comply with the new Swiss regulation on trace compounds treatment.</p>
-			<p>The Neugut facilities will be designed to treat up to 1’455 m3/h, and will be supplied by ozonia&reg; as a turnkey treatment stage. The system will include ozone generation, dome diffusion, vent ozonedestruction and instrumentation. With this innovative and forward looking building willing to protect the receiving environment, a key cleaning-compound will be added to the “Neugut” Water Treatment Plant.</p>
-			<p>The city of D&uuml;bendorf awarded the Neugut project to ozonia&reg; basedon the extensive know-how, experience and reliability that ozonia&reg; is known for around the world. The Neugut sewage plant will be used as a foundation for future projects in Switzerland.</p>
+			<p>After reviewing the results, the municipality choose ozonia<sup>&reg;</sup> to supply the full-scale plant that will be build for spring 2013. This sewage plant will be the first to comply with the new Swiss regulation on trace compounds treatment.</p>
+			<p>The Neugut facilities will be designed to treat up to 1’455 m3/h, and will be supplied by ozonia<sup>&reg;</sup> as a turnkey treatment stage. The system will include ozone generation, dome diffusion, vent ozonedestruction and instrumentation. With this innovative and forward looking building willing to protect the receiving environment, a key cleaning-compound will be added to the “Neugut” Water Treatment Plant.</p>
+			<p>The city of D&uuml;bendorf awarded the Neugut project to ozonia<sup>&reg;</sup> basedon the extensive know-how, experience and reliability that ozonia<sup>&reg;</sup> is known for around the world. The Neugut sewage plant will be used as a foundation for future projects in Switzerland.</p>
 			
 			<img src="images/micro-swiss1.jpg" alt="micro-swiss1" width="120" height="87"/>
 			<img src="images/micro-swiss2.jpg" alt="micro-swiss2" width="120" height="87"/>
@@ -344,9 +344,9 @@ include('includes/geolocate.php');
 			
 			<p>When the municipality resolved to enlarge and improve its sewage	plant, they decided to upgrade the treatment line by setting up an ozone step. With this ozone generator, the plant benefits of a high-performance device combining flexibility and ease-of-use. Located between the biological treatment and the biofiltration, the ozonation fits ideally in an existing processing line.</p>
 			
-			<p>Drawing on its know-how ozonia&reg; offered a solution including a CFV-10 generator, allowing the sewage plant to adapt the ozone	amount to every requirement, from today to 2030, where 50 000 population equivalent are expected (840 m3/hour).</p>
+			<p>Drawing on its know-how ozonia<sup>&reg;</sup> offered a solution including a CFV-10 generator, allowing the sewage plant to adapt the ozone	amount to every requirement, from today to 2030, where 50 000 population equivalent are expected (840 m3/hour).</p>
 			
-			<p>With this first reference in France equipped by ozonia&reg;, the municipality	does a forward-looking investment perfectly framing the	sustainable development.</p>
+			<p>With this first reference in France equipped by ozonia<sup>&reg;</sup>, the municipality	does a forward-looking investment perfectly framing the	sustainable development.</p>
 			
 			<img src="images/micro-france1.jpg" alt="micro-france" width="120" height="87"/>
 			<img src="images/micro-swiss2.jpg" alt="micro-swiss2" width="120" height="87"/>

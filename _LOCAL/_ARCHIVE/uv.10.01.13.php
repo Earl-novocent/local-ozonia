@@ -6,7 +6,7 @@
 		include('includes/common-head.php');
 		include('includes/common-headcarousel.php');
 	?>
-		<title>ozonia&reg; | UV Solutions</title>
+		<title>ozonia<sup>&reg;</sup> | UV Solutions</title>
 		<script type="text/javascript" src="scripts/ozonia_custom.js"></script>
 		<script type="text/javascript">
 			$(document).ready(function() {
@@ -62,14 +62,14 @@
 					<div class="cc-block active" id="uv">
 						<div class="left">
 							<h3>Ultraviolet Solutions</h3>
-							<p>Ultraviolet (UV) disinfection is environmentally safe and recognized as highly effective on a wide range of pathogens, including viruses. For the past 20 years, ozonia&reg; has been providing UV systems for disinfection, reuse and photochemical oxidation. Today, ozonia&reg; offers a complete range of UV products for municipal wastewater, municipal drinking water and all industrial applications.</p>
+							<p>Ultraviolet (UV) disinfection is environmentally safe and recognized as highly effective on a wide range of pathogens, including viruses. For the past 20 years, ozonia<sup>&reg;</sup> has been providing UV systems for disinfection, reuse and photochemical oxidation. Today, ozonia<sup>&reg;</sup> offers a complete range of UV products for municipal wastewater, municipal drinking water and all industrial applications.</p>
 							<p>UV irradiation systems disinfect by inactivating pathogenic microorganisms, such as viruses, bacteria and parasites.</p>
 
 
 
 							<p>In the UV-C light spectrum (200-280 nm), the wavelength 254nm has been proven to be the most efficient wavelength to inactivate micro-organisms by damaging the nucleic acids (DNA and RNA), which disrupts the organism&rsquo;s ability to replicate.</p>
 							<p>In normal applications, UV has the advantage that no chemicals are added to the water being treated and that no disinfection by-products are formed. Due to the small foot print, the UV equipment can be easily integrated into most existing water treatment plants.</p>
-							<p>ozonia&reg; has developed an extensive range of AQUARAY<sup>&reg;</sup> products which are ideally suited for municipal and industrial applications.</p>
+							<p>ozonia<sup>&reg;</sup> has developed an extensive range of AQUARAY<sup>&reg;</sup> products which are ideally suited for municipal and industrial applications.</p>
 
 							<p><a class="lightbox ozoniaButton_small" href="media/flash/ARloader.swf?lightbox[width]=850&lightbox[height]=516">Aquaray H<sub>2</sub>O Animation &raquo;</a></p>
 
@@ -118,7 +118,7 @@
 								    <li>
 								    	<a target="_blank" href="media/pdf/uv/Aquaray-3X-screen.pdf">
 								    	<img src="media/pdf/tn/uv/Aquaray-3X-screen001.jpg" alt="Aquaray-3X-screen001" width="106" height="150" />
-								    	<div><span>ozonia&reg; - Aquaray<sup>&reg;</sup> 3X</span></div>
+								    	<div><span>ozonia<sup>&reg;</sup> - Aquaray<sup>&reg;</sup> 3X</span></div>
 								    	</a>
 								    </li>
 								</ul>
@@ -147,7 +147,7 @@
 								    <li>
 								    	<a target="_blank" href="media/pdf/uv/Aquaray-40HO-screen.pdf">
 								    	<img src="media/pdf/tn/uv/Aquaray-40HO-screen001.jpg" alt="Aquaray-40HO-screen001" width="106" height="150" />
-								    	<div><span>ozonia&reg; - Aquaray<sup>&reg;</sup> 40 HO</span></div>
+								    	<div><span>ozonia<sup>&reg;</sup> - Aquaray<sup>&reg;</sup> 40 HO</span></div>
 								    	</a>
 								    </li>
 								</ul>
@@ -176,7 +176,7 @@
 								    <li>
 								    	<a target="_blank" href="media/pdf/uv/Aquaray-H2O-screen.pdf">
 								    	<img src="media/pdf/tn/uv/Aquaray-H2O-screen001.jpg" alt="Aquaray-H2O-screen001" width="106" height="150" />
-								    	<div><span>ozonia&reg; - H2O</span></div>
+								    	<div><span>ozonia<sup>&reg;</sup> - H2O</span></div>
 								    	</a>
 								    </li>
 								</ul>
@@ -207,13 +207,13 @@
 									<li>
 										<a target="_blank" href="media/pdf/uv/LP-screen.pdf">
 										<img src="media/pdf/tn/uv/LP-screen001.jpg" alt="LP-screen001" width="106" height="150" />
-										<div><span>ozonia&reg; - Aquaray<sup>&reg;</sup> LP</span></div>
+										<div><span>ozonia<sup>&reg;</sup> - Aquaray<sup>&reg;</sup> LP</span></div>
 										</a>
 									</li>
 									<li>
 										<a target="_blank" href="media/pdf/uv/LPTS-screen.pdf">
 										<img src="media/pdf/tn/uv/LPTS-screen001.jpg" alt="LPTS-screen001" width="106" height="150" />
-										<div><span>ozonia&reg; - Aquaray<sup>&reg;</sup> LPTS</span></div>
+										<div><span>ozonia<sup>&reg;</sup> - Aquaray<sup>&reg;</sup> LPTS</span></div>
 										</a>
 									</li>
 								</ul>
@@ -248,13 +248,13 @@
 									<li>
 										<a target="_blank" href="media/pdf/uv/SLP-DW-PW-screen.pdf">
 										<img src="media/pdf/tn/uv/SLP-DW-PW-screen001.jpg" alt="SLP-DW-PW-screen001" width="106" height="150" />
-										<div><span>ozonia&reg; - Aquaray<sup>&reg;</sup> SLP DW/PW</span></div>
+										<div><span>ozonia<sup>&reg;</sup> - Aquaray<sup>&reg;</sup> SLP DW/PW</span></div>
 										</a>
 									</li>
 									<li>
 										<a target="_blank" href="media/pdf/uv/SLP-WW-screen.pdf">
 										<img src="media/pdf/tn/uv/SLP-WW-screen001.jpg" alt="SLP-WW-screen001" width="106" height="150" />
-										<div><span>ozonia&reg; - Aquaray<sup>&reg;</sup> SLP WW</span></div>
+										<div><span>ozonia<sup>&reg;</sup> - Aquaray<sup>&reg;</sup> SLP WW</span></div>
 										</a>
 									</li>
 								</ul>
@@ -289,13 +289,13 @@
 									<li>
 										<a target="_blank" href="media/pdf/uv/SMP-DW-PW-screen.pdf">
 										<img src="media/pdf/tn/uv/SMP-DW-PW-screen001.jpg" alt="SMP-DW-PW-screen001" width="106" height="150" />
-										<div><span>ozonia&reg; - Aquaray<sup>&reg;</sup> SMP DW/PW</span></div>
+										<div><span>ozonia<sup>&reg;</sup> - Aquaray<sup>&reg;</sup> SMP DW/PW</span></div>
 										</a>
 									</li>
 									<li>
 										<a target="_blank" href="media/pdf/uv/SMP-WW-screen.pdf">
 										<img src="media/pdf/tn/uv/SMP-WW-screen001.jpg" alt="SMP-WW-screen001" width="106" height="150" />
-										<div><span>ozonia&reg; - Aquaray<sup>&reg;</sup> SMP WW</span></div>
+										<div><span>ozonia<sup>&reg;</sup> - Aquaray<sup>&reg;</sup> SMP WW</span></div>
 										</a>
 									</li>
 								</ul>

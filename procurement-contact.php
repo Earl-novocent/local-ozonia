@@ -8,7 +8,7 @@
 				$isUSA=TRUE;
 			}
 		 ?>
-		<title>ozonia&reg; | Contact</title>
+		<title>ozonia<sup>&reg;</sup> | Contact</title>
 		<script type="text/javascript" src="scripts/jquery.validate.min.js"></script>
 		<script type="text/javascript" src="scripts/jquery.validate.additional-methods.js"></script>
 
@@ -166,7 +166,7 @@
 				<!-- <h2>Your are in this country:</h2>	 -->
 				<div class="map-info">
 				    <div id="map-default">
-				    	<h3>ozonia&reg;</h3>
+				    	<h3>ozonia<sup>&reg;</sup></h3>
 						<ul>
 							<li>Stettbachstrasse 1</li>
 							<li>8600 Duebendorf Switzerland</li>
@@ -176,7 +176,7 @@
 						</ul>
 						<br />
 						<h3>General Conditions of Purchase</h3>
-						<p>The following general conditions of purchase apply to purchase orders placed by ozonia&reg;, CH-8600 Duebendorf, for the supply of goods and/or services:</p>
+						<p>The following general conditions of purchase apply to purchase orders placed by ozonia<sup>&reg;</sup>, CH-8600 Duebendorf, for the supply of goods and/or services:</p>
 						<br />
 						<!-- <p>
 							<a taget="_blank" href="media/pdf/general/General_Conditions_of_Purchase_V12.2014.pdf"><img src="images/pdf-document.png" height="16" width="16" alt="" /></a>
@@ -193,7 +193,7 @@
 
 
 						<br />
-						<p>The following general conditions of purchase apply to purchase orders placed by ozonia&reg; NORTH AMERICA, for the supply of goods and/or services: </p>
+						<p>The following general conditions of purchase apply to purchase orders placed by ozonia<sup>&reg;</sup> NORTH AMERICA, for the supply of goods and/or services: </p>
 						<br />
 						<p>
 							<!-- <a target="_blank" href="media/pdf/general/purchasing_terms_and_conditions.pdf"><img src="images/pdf-document.png" height="16" width="16" alt="" /></a>
@@ -205,7 +205,7 @@
 
 				    </div>
 				    <div id="map-ch">
-				    	<h3>ozonia&reg; China</h3>
+				    	<h3>ozonia<sup>&reg;</sup> China</h3>
 						<ul>
 							<li>9F, Jing Guang Office Building</li>
 							<li>Hu Jia Lou Chaoyang District</li>

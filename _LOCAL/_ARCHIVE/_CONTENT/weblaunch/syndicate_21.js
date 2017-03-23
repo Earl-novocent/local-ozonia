@@ -21,7 +21,7 @@ syndicate.index = 0;
   syndicate.article_date[ syndicate.index ] = 'Dec 15, 2004';
   syndicate.article_summary[ syndicate.index ] = 'A&nbsp;complete stand alone ozone treatment system for the bottle filler ';
   syndicate.index++;
-  syndicate.article_title[ syndicate.index ] = 'ozonia&reg; Model LAB 2A Ozone Generator';
+  syndicate.article_title[ syndicate.index ] = 'ozonia<sup>&reg;</sup> Model LAB 2A Ozone Generator';
   syndicate.article_url[ syndicate.index ] = 'http://192.168.1.34:8080/weblaunch/article_67.shtml';
   syndicate.article_date[ syndicate.index ] = 'Dec 15, 2004';
   syndicate.article_summary[ syndicate.index ] = 'A small air-cooled unit specifically designed for bench top use for laboratory or other testing purposes.';

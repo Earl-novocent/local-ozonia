@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 	<head>
 		<?php include('includes/common-head.php'); ?>
-		<title>ozonia&reg; | Parts and Services</title>
+		<title>ozonia<sup>&reg;</sup> | Parts and Services</title>
 		<script type="text/javascript" src="scripts/ozonia_custom.js"></script>
 		<link rel="stylesheet" type="text/css" href="scripts/jquery.lightbox/js/lightbox/themes/default/jquery.lightbox.css" />
 		<!--[if IE 6]>
@@ -44,7 +44,7 @@
 				<h2 class="section-title">Services</h2>
 				<div class="left">
 					<h4>360° Customer Care Services</h4>
-					<p>ozonia&reg; offers a broad range of customer care services and support, which ensure top quality standards and fast problem resolution.</p>
+					<p>ozonia<sup>&reg;</sup> offers a broad range of customer care services and support, which ensure top quality standards and fast problem resolution.</p>
 					<p>Our expertly trained teams provide customer service, repairs and maintenance, training, and know-how transfer, offering real added value to suppliers and customers alike.</p>
 					<h4>Benefits:</h4>
 					<ul>
@@ -69,7 +69,7 @@
 					<ul class="literature">
 					    <li>
 					    	<a target="_blank" href="media/pdf/services/360 Brochure_English_vertical.pdf">
-					    	<img src="media/pdf/tn/services/ozonia&reg;-Services-US-1.jpg" alt="ozonia&reg;-Services-US-1" width="106" height="150" />
+					    	<img src="media/pdf/tn/services/ozonia<sup>&reg;</sup>-Services-US-1.jpg" alt="ozonia<sup>&reg;</sup>-Services-US-1" width="106" height="150" />
 					    	<div><span>Parts and Service</span></div>
 					    	</a>
 					    </li>

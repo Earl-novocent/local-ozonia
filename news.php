@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 	<head>
 		<?php include('includes/common-head.php'); ?>
-		<title>ozonia&reg; | About</title>
+		<title>ozonia<sup>&reg;</sup> | About</title>
 		<link rel="stylesheet" type="text/css" href="scripts/jquery.lightbox/js/lightbox/themes/default/jquery.lightbox.css" />
 		<!--[if IE 6]>
 		<link rel="stylesheet" type="text/css" href="scripts/jquery.lightbox/js/lightbox/themes/default/jquery.lightbox.ie6.css" />
@@ -34,7 +34,7 @@
 
 			<div class="hero-inner clearfix">
 				<div class="hero-content" style="overflow:hidden">
-					<h1>ozonia&reg; has more than <br />35 years of
+					<h1>ozonia<sup>&reg;</sup> has more than <br />35 years of
 						experience <br />in disinfection
 						and oxidation processes</span></h1>
 					<img src="images/hero-about2.jpg" alt="" />

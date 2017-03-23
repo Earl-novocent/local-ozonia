@@ -1,6 +1,6 @@
 	<!--ZOOMSTOP-->
 			<div class="header clearfix">
-				<h1 class="logo"><a href="index.php"><img src="images/logo-3.png" alt="ozonia&reg;"/></a></h1>
+				<h1 class="logo"><a href="index.php"><img src="images/logo-3.png" alt="ozonia<sup>&reg;</sup>"/></a></h1>
 				<ul class="header-links">
 					<!--
 					<li><a href="http://www.suez-environnement.com">www.suez-environnement.com </a></li>

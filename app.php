@@ -5,7 +5,7 @@
 		<?php
 			include('includes/common-head.php');
 		?>
-		<title>ozonia&reg; | UV Solutions</title>
+		<title>ozonia<sup>&reg;</sup> | UV Solutions</title>
 
 		<!-- Adobe Edge animation scripts
 		<script type="text/javascript" src="aop-anim/edge_includes/jquery.easing.1.3.js"></script>

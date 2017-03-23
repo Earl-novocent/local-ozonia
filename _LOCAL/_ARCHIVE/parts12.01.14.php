@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 	<head>
 		<?php include('includes/common-head.php'); ?>
-		<title>ozonia&reg; | Parts and Services</title>
+		<title>ozonia<sup>&reg;</sup> | Parts and Services</title>
 		<script type="text/javascript" src="scripts/ozonia_custom.js"></script>
 		<link rel="stylesheet" type="text/css" href="scripts/jquery.lightbox/js/lightbox/themes/default/jquery.lightbox.css" />
 		<!--[if IE 6]>
@@ -43,15 +43,15 @@
 				<h2 class="section-title">Parts and Services</h2>
 				<div class="left">
 					<h4>Maintenance & Services</h4>
-					<p>To ensure the longest lifespan, which ozonia&reg; and Innoplana products are designed for, the service department recommends service agreements, according to you individual wishes, at a fixed rate.</p>
+					<p>To ensure the longest lifespan, which ozonia<sup>&reg;</sup> and Innoplana products are designed for, the service department recommends service agreements, according to you individual wishes, at a fixed rate.</p>
 					<h4>Technical Support</h4>
-					<p>For any query that arises in connection with the operation of an ozonia&reg; product, the service team offers client support by telephone, fax, e-mail or by on-site service engineers.</p>
+					<p>For any query that arises in connection with the operation of an ozonia<sup>&reg;</sup> product, the service team offers client support by telephone, fax, e-mail or by on-site service engineers.</p>
 					<h4>Spare Parts</h4>
-					<p>ozonia&reg; provides recommended &ldquo;strategic spare parts&rdquo; and &ldquo;wear & tear parts&rdquo; in order to allow minimum down-time and maximum flexibility on site. Let us know you wishes and ideas and we will design a personalized concept for you.</p>
+					<p>ozonia<sup>&reg;</sup> provides recommended &ldquo;strategic spare parts&rdquo; and &ldquo;wear & tear parts&rdquo; in order to allow minimum down-time and maximum flexibility on site. Let us know you wishes and ideas and we will design a personalized concept for you.</p>
 					<h4>Training</h4>
 					<p>To ensure the client's ability to operate the plant and to enable him to analyze operating situations, we offer on-site <!-- as well as -->training in our facilities in Switzerland and the United States.</p>
 					<h4>Emergency Interventions</h4>
-					<p>ozonia&reg; knows about the importance of manpower availability. We are there when you need us, so don't hesitate to call us.</p>
+					<p>ozonia<sup>&reg;</sup> knows about the importance of manpower availability. We are there when you need us, so don't hesitate to call us.</p>
 			        <ul class="ogal clearfix">
 			          <li><a href="images/service/service1.jpg" class="lightbox" rel="group1"><img src="images/service/service1t.jpg" alt=""/></a></li>
 			          <li><a href="images/service/service2.jpg" class="lightbox" rel="group1"><img src="images/service/service2t.jpg" alt=""/></a></li>
@@ -61,8 +61,8 @@
 					<h4>Additional Reading</h4>
 					<ul class="literature">
 					    <li>
-					    	<a target="_blank" href="media/pdf/ozonia&reg;-Services-US.pdf">
-					    	<img src="media/pdf/tn/ozonia&reg;-Services-US-1.jpg" alt="ozonia&reg;-Services-US-1" width="106" height="150" />
+					    	<a target="_blank" href="media/pdf/ozonia<sup>&reg;</sup>-Services-US.pdf">
+					    	<img src="media/pdf/tn/ozonia<sup>&reg;</sup>-Services-US-1.jpg" alt="ozonia<sup>&reg;</sup>-Services-US-1" width="106" height="150" />
 					    	<div><span>Parts and Service</span></div>
 					    	</a>
 					    </li>

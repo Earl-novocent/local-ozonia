@@ -47,9 +47,9 @@ if(!$_POST) exit;
 		
 		} else {
 
-         $email_subject = 'Email from ' .$name. ' via the ozonia&reg; website ';
+         $email_subject = 'Email from ' .$name. ' via the ozonia<sup>&reg;</sup> website ';
 					
-		 $msg  = "$name $surname filled out the contact form on the ozonia&reg; website.\r\n\n";
+		 $msg  = "$name $surname filled out the contact form on the ozonia<sup>&reg;</sup> website.\r\n\n";
 		 $msg .= "Contact info ======= \r\n\n";
 		 $msg .= "Email address: $email \r\n";
 		 if($phone!="") $msg .= "Phone number: $phone \r\n";		 		

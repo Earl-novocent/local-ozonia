@@ -3,8 +3,8 @@
 	<section>
 		<translations>
 			<translation>
-				<english>As a world leader in ozone disinfection treatment, ozonia&reg; designs and manufactures ozone generators incorporating the most sophisticated electronics technology available. Offering wide-range of ozone generators from the laboratory scale to the largest ozone systems in the world. All ozonia&reg; ozone systems have a variety of technical features developed to simplify installation and allow minimal operator attention and maintenance.</english>
-				<chinese>作为全球领先的臭氧消毒技术提供商和设备制造厂商，奥宗尼亚(ozonia&reg;)公司自行研发、设计和制造的系列臭氧发生器采用了最尖端的电子技术。所提供的臭氧发生器应用范围广泛， 涉及世界各地的实验室规模以及最大规模臭氧系统的提供业务。 奥宗尼亚(ozonia&reg;)公司每一臭氧系统均拥有独特的技术特征，采用相应的专利技术以简化安装和最小化维护工作量。</chinese>
+				<english>As a world leader in ozone disinfection treatment, ozonia<sup>&reg;</sup> designs and manufactures ozone generators incorporating the most sophisticated electronics technology available. Offering wide-range of ozone generators from the laboratory scale to the largest ozone systems in the world. All ozonia<sup>&reg;</sup> ozone systems have a variety of technical features developed to simplify installation and allow minimal operator attention and maintenance.</english>
+				<chinese>作为全球领先的臭氧消毒技术提供商和设备制造厂商，奥宗尼亚(ozonia<sup>&reg;</sup>)公司自行研发、设计和制造的系列臭氧发生器采用了最尖端的电子技术。所提供的臭氧发生器应用范围广泛， 涉及世界各地的实验室规模以及最大规模臭氧系统的提供业务。 奥宗尼亚(ozonia<sup>&reg;</sup>)公司每一臭氧系统均拥有独特的技术特征，采用相应的专利技术以简化安装和最小化维护工作量。</chinese>
 			</translation>
 			<translation>
 				<english>Ozone has been used by municipal bodies for many years to improve the aesthetic qualities of water and for its germicidal action. It is an accepted fact that drinking water is disinfected when a residual ozone level of 0.4 mg/l has been maintained for a period of 4 minutes. Ozone has many additional benefits in the drinking water process:</english>
@@ -35,7 +35,7 @@
 				<chinese>OZAT® CFS系列</chinese>
 			</translation>
 			<translation id="cfs_3">
-				<english>The OZAT® CFS range is ozonia&reg;'s answer for small to medium sized ozone applications. The design is based on feedback from hundreds of operators and includes the latest technology to ensure continuous operation at full load in industrial environments.</english>
+				<english>The OZAT® CFS range is ozonia<sup>&reg;</sup>'s answer for small to medium sized ozone applications. The design is based on feedback from hundreds of operators and includes the latest technology to ensure continuous operation at full load in industrial environments.</english>
 				<chinese>CFS 系列代表奥宗尼亚臭氧发生装置的二代研发产品，专为中小型臭氧处理应用而设计，并在大量用户反馈信息的基础上不断完善，利用最新技术确保满负荷工业运行的连续性。</chinese>
 			</translation>
 			<translation id="cfs_4">
@@ -71,7 +71,7 @@
 	<section id="cfv">
 		<translations>
 			<translation id="cfv_3">
-				<english>The OZAT® CFV range is ozonia&reg;'s latest development of generators for medium-sized ozone applications. The design is based on feedback from hundreds of operators and includes the latest technology to ensure continuous operation at full-load in industrial environments. A feature of the larger units is the fused dielectric tubes which makes them particularly suitable for remote service in drinking water plants.</english>
+				<english>The OZAT® CFV range is ozonia<sup>&reg;</sup>'s latest development of generators for medium-sized ozone applications. The design is based on feedback from hundreds of operators and includes the latest technology to ensure continuous operation at full-load in industrial environments. A feature of the larger units is the fused dielectric tubes which makes them particularly suitable for remote service in drinking water plants.</english>
 				<chinese>CFV 系列产品是奥宗尼亚开发的最新一代臭氧发生器， 适合中等规模的臭氧应用处理。其设计在大量用户反馈意见的基础上不断完善，并利用最新技术确保满负荷工业运行的连续性。这类较大型处理装置的一个显著特点是采用了带保险的放电管，特别适于饮用水厂的远程控制和操作。</chinese>
 			</translation>
 			<translation id="cfv_4">
@@ -123,15 +123,15 @@
 				<chinese>XF™系列</chinese>
 			</translation>
 			<translation id="xf_3">
-				<english>The XF™ range of ozone generators is ozonia&reg;'s latest development that will set new standards for ozone production world-wide.</english>
+				<english>The XF™ range of ozone generators is ozonia<sup>&reg;</sup>'s latest development that will set new standards for ozone production world-wide.</english>
 				<chinese>XF™系列产品是奥宗尼亚研发的最新一代臭氧发生器。该产品的面世将全球臭氧生产技术提升至新的水平和高度</chinese>
 			</translation>
 			<translation id="xf_4">
-				<english>Not only has the ozonia&reg; research team established a new calculation basis for the vessel design they have also developed a completely new dielectric technology that will compliment the phenomenally successful “AT (Advanced Technology)™” in the larger units.</english>
+				<english>Not only has the ozonia<sup>&reg;</sup> research team established a new calculation basis for the vessel design they have also developed a completely new dielectric technology that will compliment the phenomenally successful “AT (Advanced Technology)™” in the larger units.</english>
 				<chinese>奥宗尼亚的研发小组不仅为臭氧发生器的设计建立新的计算基础，还开发出全新的放电管技术以代替闻名遐迩的“AT™ (advanced Technology)”应用到大型的臭氧生产装置中。</chinese>
 			</translation>
 			<translation id="xf_5">
-				<english>The new patented technology, trademarked “IGS™ (Intelligent Gap System)”, takes ozone generation to levels never thought possible. This technological breakthrough, in conjunction with ozonia&reg;'s new MODIPAC™ power supply unit, improves operating efficiency to reduce costs to the lowest possible levels.
+				<english>The new patented technology, trademarked “IGS™ (Intelligent Gap System)”, takes ozone generation to levels never thought possible. This technological breakthrough, in conjunction with ozonia<sup>&reg;</sup>'s new MODIPAC™ power supply unit, improves operating efficiency to reduce costs to the lowest possible levels.
 				</english>
 				<chinese>新的专利技术“IGS ™ (Intelligent Gap System)”将臭氧生产技术提高至前所未有的新高度。这项技术突破结合奥宗尼亚开发的新型MODIPAC ™供电单元解除人们在成本控制方面的顾虑</chinese>
 			</translation>
@@ -160,12 +160,12 @@
 				<chinese>IGS™ (Intelligent Gap System 智能间隙系统)专利技术：十年来最具创新性，成本效益和环保革新性的臭氧生成系统</chinese>
 			</translation>
 			<translation id="igs_4">
-				<english>ozonia&reg;'s new IGS™ Technology is a patented ozone generation process that uses revolutionary technology and materials to take ozone generation to levels never before commercially available. The revolutionary IGS™ Technology actually tailors the plasma (corona discharge) to optimize ozone generation and minimize non-productive energy.</english>
-				<chinese>奥宗尼亚(ozonia&reg;)公司新型 IGS™ (Intelligent Gap System 智能间隙系统)技术是专利臭氧生成工艺，采用革新性的技术和材料，将臭氧生产技术提高至前所未有的新高度。创新型 IGS™ (Intelligent Gap System 智能间隙系统)技术按实际需要处理等离子（电晕放电），优化臭氧产生，显著降低能耗。</chinese>
+				<english>ozonia<sup>&reg;</sup>'s new IGS™ Technology is a patented ozone generation process that uses revolutionary technology and materials to take ozone generation to levels never before commercially available. The revolutionary IGS™ Technology actually tailors the plasma (corona discharge) to optimize ozone generation and minimize non-productive energy.</english>
+				<chinese>奥宗尼亚(ozonia<sup>&reg;</sup>)公司新型 IGS™ (Intelligent Gap System 智能间隙系统)技术是专利臭氧生成工艺，采用革新性的技术和材料，将臭氧生产技术提高至前所未有的新高度。创新型 IGS™ (Intelligent Gap System 智能间隙系统)技术按实际需要处理等离子（电晕放电），优化臭氧产生，显著降低能耗。</chinese>
 			</translation>
 			<translation id="igs_5">
-				<english>Dramatic improvement of energy efficiency from ozonia&reg;' IGS™ Technology reduces ozonation cost of ownership. The economic impact makes ozone an effective solution to address the ever more demanding situation.</english>
-				<chinese>奥宗尼亚(ozonia&reg;)公司新型 IGS™ (Intelligent Gap System 智能间隙系统)技术显著降低电耗，降低臭氧制备成本。其良好的经济效益使臭氧的应用面日益扩大。</chinese>
+				<english>Dramatic improvement of energy efficiency from ozonia<sup>&reg;</sup>' IGS™ Technology reduces ozonation cost of ownership. The economic impact makes ozone an effective solution to address the ever more demanding situation.</english>
+				<chinese>奥宗尼亚(ozonia<sup>&reg;</sup>)公司新型 IGS™ (Intelligent Gap System 智能间隙系统)技术显著降低电耗，降低臭氧制备成本。其良好的经济效益使臭氧的应用面日益扩大。</chinese>
 			</translation>
 			<translation id="igs_6">
 				<english>Stable production of high ozone concentration (14wt.%) on a continuous basis</english>
@@ -196,11 +196,11 @@
 				<chinese>MODIPAC™</chinese>
 			</translation>
 			<translation id="modipac_3">
-				<english>The MODIPAC™ product is the latest development of power supply units for ozonia&reg; ozone generators. The main feature of the new PSU is an innovative frequency converter based on state of the art Insulated Gate Bipolar Transistor (IGBT) semiconductor technology.</english>
+				<english>The MODIPAC™ product is the latest development of power supply units for ozonia<sup>&reg;</sup> ozone generators. The main feature of the new PSU is an innovative frequency converter based on state of the art Insulated Gate Bipolar Transistor (IGBT) semiconductor technology.</english>
 				<chinese>MODIPAC™系列为最新推出的、奥宗尼亚臭氧发生器的供电单元模块。新型PSU的主要优势体现在采用技术独创性的变频器和先进的IGBT半导体技术。</chinese>
 			</translation>
 			<translation id="modipac_4">
-				<english>The development of the “insulated gate bipolar transistors” was a major step forward in semiconductor power technology, clearly destined to replace existing technologies such as thyristors and associated designs for certain applications. In order to keep abreast with technological development, ozonia&reg; embarked on a development program which has resulted in the top-of-the-line MODIPAC™ modular power supply systems.</english>
+				<english>The development of the “insulated gate bipolar transistors” was a major step forward in semiconductor power technology, clearly destined to replace existing technologies such as thyristors and associated designs for certain applications. In order to keep abreast with technological development, ozonia<sup>&reg;</sup> embarked on a development program which has resulted in the top-of-the-line MODIPAC™ modular power supply systems.</english>
 				<chinese>IGBT（insulated gate bipolar transistors）技术开发是半导体工业的一次飞跃，在某些特定应用中取代先前所用的晶闸管和其他相关设计产品成为必然。奥宗尼亚一直站在最新科技发展前沿，自主研发MODIPAC™模块化供电系统。</chinese>
 			</translation>
 			<translation id="modipac_5">
@@ -224,7 +224,7 @@
 				<chinese>HV 变压器置于PSU 柜内部。</chinese>
 			</translation>
 			<translation id="modipac_10">
-				<english>The output frequency is matched to the new ozonia&reg; ozone generator technology</english>
+				<english>The output frequency is matched to the new ozonia<sup>&reg;</sup> ozone generator technology</english>
 				<chinese>输出频率和奥宗尼亚的臭氧发生器在技术上相匹配。</chinese>
 			</translation>
 		</translations>
@@ -280,7 +280,7 @@
 				<chinese>用于工业和制药行业超纯水回路的最有效消毒方式</chinese>
 			</translation>
 			<translation id="membrel_4">
-				<english>Originally developed in the early 1980's MEMBREL® MKIII is ozonia&reg;'s latest generation of electrolytic ozone generators which uses solid polymer electrolyte and state-of-the-art electronics for ozone production.</english>
+				<english>Originally developed in the early 1980's MEMBREL® MKIII is ozonia<sup>&reg;</sup>'s latest generation of electrolytic ozone generators which uses solid polymer electrolyte and state-of-the-art electronics for ozone production.</english>
 				<chinese>MEMBREL® MKIII是奥宗尼亚公司电解式臭氧发生器的最新一代产品，采用固体聚合物电介质和最先进的电子技术制造臭氧。</chinese>
 			</translation>
 			<translation id="membrel_5">
