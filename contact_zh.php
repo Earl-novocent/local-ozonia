@@ -174,7 +174,7 @@
 							<li>8600 Duebendorf Switzerland</li>
 							<li>Tel: +41 44 801 85 11</li>
 							<li>Fax: +41 44 801 85 01</li>
-							<li><?php echo "<a href=\"".convert_email_adr("mailto:salesCH@ozonia.com")."\">".convert_email_adr("salesCH@ozonia.com")."</a>";?></li>
+							<li><?php echo "<a href=\"".convert_email_adr("mailto:sales@ozonia.com")."\">".convert_email_adr("sales@ozonia.com")."</a>";?></li>
 						</ul>
 						<div class="gmap"></div>
 				    </div>
@@ -197,8 +197,7 @@
 							<li>92500 RUEIL MAMAISON - FRANCE</li>
 							<li>Tel: +33 0 146 25 62 22</li>
 							<li>Fax: +33 1 58 81 57 00</li>
-							<li><?php echo "<a href=\"".convert_email_adr("mailto:michel.forgeot@ozonia.fr,farchad.kaviani@degtec.com")."\">".convert_email_adr("michel.forgeot@ozonia.fr")."</a>";?></li>
-							<li><?php echo "<a href=\"".convert_email_adr("mailto:michel.forgeot@ozonia.fr,farchad.kaviani@degtec.com")."\">".convert_email_adr("farchad.kaviani@degtec.com")."</a>";?></li>
+							<li><?php echo "<a href=\"".convert_email_adr("mailto:sales@ozonia.com")."\">".convert_email_adr("sales@ozonia.com")."</a>";?></li>
 						</ul>
 						<div class="gmap"></div>
 				    </div>
@@ -209,7 +208,7 @@
 							<li>8600 Duebendorf Switzerland</li>
 							<li>Tel: +41 44 801 85 11</li>
 							<li>Fax: +41 44 801 85 01</li>
-							<li><?php echo "<a href=\"".convert_email_adr("mailto:salesCH@ozonia.com")."\">".convert_email_adr("salesCH@ozonia.com")."</a>";?></li>
+							<li><?php echo "<a href=\"".convert_email_adr("mailto:sales@ozonia.com")."\">".convert_email_adr("sales@ozonia.com")."</a>";?></li>
 						</ul>
 						<div class="gmap"></div>
 				    </div>
@@ -220,7 +219,7 @@
 							<li>603155 Nizhny Novgorod, Russia</li>
 							<li>Tel: +7 831 434 16 28</li>
 							<li>Fax: +7 831 434 25 89</li>
-							<li><?php echo "<a href=\"".convert_email_adr("mailto:salesRU@ozonia.com")."\">".convert_email_adr("salesRU@ozonia.com")."</a>";?></li>
+							<li><?php echo "<a href=\"".convert_email_adr("mailto:sales@ozonia.com")."\">".convert_email_adr("sales@ozonia.com")."</a>";?></li>
 						</ul>
 						<div class="gmap"></div>
 
@@ -234,7 +233,7 @@
 							<li>100020 Beijing</li>-->
 							<li>Tel: +86 10 6597 3860</li>
 							<li>Fax: +86 10 6597 3660</li>
-							<li><?php echo "<a href=\"".convert_email_adr("mailto:salesCN@ozonia.com")."\">".convert_email_adr("salesCN@ozonia.com")."</a>";?></li>
+							<li><?php echo "<a href=\"".convert_email_adr("mailto:sales@ozonia.com")."\">".convert_email_adr("sales@ozonia.com")."</a>";?></li>
 						</ul>
 						<div class="gmap"></div>
 
@@ -248,7 +247,7 @@
 							<li>Gyeonggi-Do, South Korea</li>
 							<li>Tel:+ 82 31 701 90 36</li>
 							<li>Fax: +82 31 701 40 28</li>
-							<li><?php echo "<a href=\"".convert_email_adr("mailto:salesKR@ozonia.com")."\">".convert_email_adr("salesKR@ozonia.com")."</a>";?></li>
+							<li><?php echo "<a href=\"".convert_email_adr("mailto:sales@ozonia.com")."\">".convert_email_adr("sales@ozonia.com")."</a>";?></li>
 						</ul>
 						<div class="gmap"></div>
 				    </div>
@@ -259,7 +258,7 @@
 							<li>Tokyo 108-0073 Japan</li>
 							<li>Tel: +81 3 5444 6361</li>
 							<li>Fax: +81 3 5444 0851</li>
-							<li><?php echo "<a href=\"".convert_email_adr("mailto:salesJP@ozonia.com")."\">".convert_email_adr("salesJP@ozonia.com")."</a>";?></li>
+							<li><?php echo "<a href=\"".convert_email_adr("mailto:sales@ozonia.com")."\">".convert_email_adr("sales@ozonia.com")."</a>";?></li>
 						</ul>
 						<div class="gmap"></div>
 				    </div>
