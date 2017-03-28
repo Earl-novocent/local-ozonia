@@ -12,7 +12,7 @@
     $sendto  = $_POST['sendto'];
 
 	//$address = ($sendto=="americas") ? "sales@ozonia.com, farchad.kaviani@degtec.com, Gaspar.LESZNIK@ozonia.com" : "Gaspar.LESZNIK@ozonia.com, farchad.kaviani@degtec.com, cristina.trachsel@degtec.com";
-	$address = ($sendto=="americas") ? "sales@ozonia.com, farchad.kaviani@degtec.com, Gaspar.LESZNIK@ozonia.com" : "Gaspar.LESZNIK@ozonia.com, farchad.kaviani@degtec.com, lara.bloechlinger@degtec.com";
+	$address = ($sendto=="sales@ozonia.com") ;
 	//$address = ($sendto=="americas") ? "mike@novocentpartners.com" : "art@novocentpartners.com";
 	$error = '';
 	$phonemsg = '';
